@@ -1,0 +1,53 @@
+Progression 5ème - Année scolaire 2018/2019
+===
+
+Chapitre 1: Solides, prisme droit et cylindre de révolution
+---
+
+Chapitre 2: Calculer avec les nombres décimaux
+---
+
+Chapitre 3: Problèmes de construction d'un triangle
+---
+
+Chapitre 4: Vers le calcul littéral
+---
+
+Chapitre 5: Médiatrices et hauteurs
+---
+
+Chapitre 6: Comparaison des nombres décimaux
+---
+
+Chapitre 7: Proportionnalité
+---
+
+Chapitre 8: Somme des angles d'un triangle
+---
+
+Chapitre 9: Statistiques
+---
+
+Chapitre 10: Nombres relatifs, découverte et repérage
+---
+
+Chapitre 11: Symétrie centrale et parallélogrammes
+---
+
+Chapitre 12: Fractions, divisions, multiples et diviseurs
+---
+
+Chapitre 13: Chance et hasard
+---
+
+Chapitre 14: Additions, soustractions, multiplication et division des nombres relatifs
+---
+
+Chapitre 15: Périmètres et aires
+---
+
+Chapitre 16: Échelle
+---
+
+Chapitre 17: Angles alternes-internes et parallélisme
+---
