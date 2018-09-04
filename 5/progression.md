@@ -3,6 +3,8 @@ Progression 5ème - Année scolaire 2018/2019
 
 Chapitre 1: Solides, prisme droit et cylindre de révolution
 ---
+* Savoir repérer les différentes faces remarquables d'un prisme et d'un cylindre
+* Savoir construire le patron d'un prisme et d'un cylindre
 
 Chapitre 2: Calculer avec les nombres décimaux
 ---
