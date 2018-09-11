@@ -1,13 +1,15 @@
 Progression 5ème - Année scolaire 2018/2019
 ===
 
-Chapitre 1: Solides, prisme droit et cylindre de révolution
+Chapitre 1: Calculer avec les nombres décimaux
+---
+* Savoir trouver et utiliser un ordre de grandeur pour valider un réultat
+* Connaitre les priorités de calcul d'une expression
+
+Chapitre 2: Solides, prisme droit et cylindre de révolution
 ---
 * Savoir repérer les différentes faces remarquables d'un prisme et d'un cylindre
 * Savoir construire le patron d'un prisme et d'un cylindre
-
-Chapitre 2: Calculer avec les nombres décimaux
----
 
 Chapitre 3: Problèmes de construction d'un triangle
 ---
@@ -38,6 +40,7 @@ Chapitre 11: Symétrie centrale et parallélogrammes
 
 Chapitre 12: Fractions, divisions, multiples et diviseurs
 ---
+* Savoir réduire une expression fractionnaire
 
 Chapitre 13: Chance et hasard
 ---
