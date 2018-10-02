@@ -1,121 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-09-04T14:50:31.127494019</meta:creation-date><meta:generator>LibreOffice/6.1.0.3$Windows_X86_64 LibreOffice_project/efb621ed25068d70781dc026f7e9c5187a4decd1</meta:generator><dc:date>2018-09-09T13:51:51.384000000</dc:date><meta:editing-duration>PT59M14S</meta:editing-duration><meta:editing-cycles>8</meta:editing-cycles><meta:document-statistic meta:table-count="3" meta:image-count="2" meta:object-count="3" meta:page-count="3" meta:paragraph-count="81" meta:word-count="601" meta:character-count="3525"/></office:meta>
+ <office:meta><meta:creation-date>2018-09-04T14:50:31.127494019</meta:creation-date><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><dc:date>2018-09-13T10:47:56.249222228</dc:date><meta:editing-duration>PT1H5M34S</meta:editing-duration><meta:editing-cycles>11</meta:editing-cycles><meta:document-statistic meta:table-count="3" meta:image-count="2" meta:object-count="3" meta:page-count="3" meta:paragraph-count="82" meta:word-count="602" meta:character-count="3526" meta:non-whitespace-character-count="3007"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">68368</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">76570</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">24291</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">21698</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">35482</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">14527</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">18942</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">81977</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">9405</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">88083</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">68368</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">24289</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">90064</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">76570</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">35481</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">91096</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
-   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string"/>
-   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
-   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
-   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
-   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
-   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
-   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
-   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
-   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="RsidRoot" config:type="int">1208001</config:config-item>
-   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2153665</config:config-item>
-   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
-   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintFaxName" config:type="string"/>
    <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2160813</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1208001</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -138,7 +133,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="fr" fo:country="FR" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -527,21 +522,25 @@
   <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:paragraph-rsid="0013a022"/>
-  </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
    <style:text-properties fo:color="#000000" style:font-name="Arial" fo:font-size="12pt" fo:language="fr" fo:country="FR" fo:font-style="normal" fo:font-weight="normal" officeooo:paragraph-rsid="001a342b" fo:background-color="#ffffff" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
    <style:text-properties fo:color="#000000" style:font-name="Arial" fo:font-size="12pt" fo:language="fr" fo:country="FR" fo:font-style="normal" fo:font-weight="normal" fo:background-color="#ffffff" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
    <style:text-properties fo:color="#000000" style:font-name="Arial" fo:font-size="12pt" fo:language="fr" fo:country="FR" fo:font-style="normal" fo:font-weight="normal" fo:background-color="#ffffff" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
+   <style:text-properties officeooo:rsid="0020f8ad" officeooo:paragraph-rsid="0020f8ad"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="0013a022"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00197f14"/>
@@ -641,6 +640,9 @@
   </style:style>
   <style:style style:name="T33" style:family="text">
    <style:text-properties fo:color="#ce181e" style:font-name="Arial" fo:font-size="12pt" fo:language="fr" fo:country="FR" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" fo:background-color="#ffffff" loext:char-shading-value="0" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
+   <style:text-properties officeooo:rsid="0020f8ad"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:vertical-pos="top" style:vertical-rel="baseline" fo:background-color="transparent" draw:fill="none" draw:fill-color="#ffffff" fo:padding="0cm" fo:border="none" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
@@ -835,7 +837,7 @@
    <text:p text:style-name="P13">La position des chiffres dans l&apos;écriture du nombre permet de déterminer la quantité d&apos;unités correspondante, la quantité de dizaines correspondantes ….</text:p>
    <text:p text:style-name="P5"><text:span text:style-name="T6">Exemples : 45 se décompose en (4x10) + 5 ; 651 se décompose en </text:span><text:span text:style-name="T16">(6x100) + (5x10) + 1</text:span></text:p>
    <text:p text:style-name="P9"/>
-   <text:p text:style-name="P5"><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="as-char" svg:width="16.32cm" svg:height="4.891cm" draw:z-index="0"><draw:image loext:mime-type="image/png">
+   <text:p text:style-name="P5"><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="as-char" svg:width="16.32cm" svg:height="4.891cm" draw:z-index="0"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA8UAAAEiCAYAAADQ7HB/AAAACXBIWXMAAA7EAAAOwwHaapjc
        AAFCpElEQVR4nOydB1xVR/q/n3svvfcO0lEQEEXB3nuPUWN6z6aXzWZ3s32T3fTeezHRGHvv
        YgdUELCg0nvvHW75z6UoIJZszN/84jx+TsK99z3nzJkzc2a+5513xkCn09kAg5BIJBKJRCKR
@@ -2383,16 +2385,16 @@
    <text:p text:style-name="P13">- Les nombres vingt (20) et cent (100) ne prennent pas de « s » au pluriel lorsqu&apos;ils sont suivis d&apos;un autre nombre, sinon ils s&apos;accordent :</text:p>
    <text:p text:style-name="P5"><text:span text:style-name="T6">« 80 » s&apos;écrit </text:span><text:span text:style-name="T16">quatre-vingts</text:span></text:p>
    <text:p text:style-name="P5"><text:span text:style-name="T6">« 300 » s&apos;écrit </text:span><text:span text:style-name="T16">trois cents </text:span><text:span text:style-name="T6">« 401 » s&apos;écrit </text:span><text:span text:style-name="T16">quatre cent un</text:span></text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2">Nombres décimaux</text:h>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:soft-page-break/>Écriture décimale</text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/>Nombres décimaux</text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Écriture décimale</text:h>
    <text:p text:style-name="P15">Un nombre décimal se décompose en deux parties séparées d&apos;une virgule :</text:p>
-   <text:list xml:id="list484903020" text:style-name="L1">
+   <text:list xml:id="list2864989364751481678" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P37">La partie entière,</text:p>
+     <text:p text:style-name="P36">La partie entière,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P37">La partie décimale, qui comporte un nombre fini de chiffres non nuls.</text:p>
-     <text:p text:style-name="P37"/>
+     <text:p text:style-name="P36">La partie décimale, qui comporte un nombre fini de chiffres non nuls.</text:p>
+     <text:p text:style-name="P36"/>
     </text:list-item>
    </text:list>
    <table:table table:name="Tableau2" table:style-name="Tableau2">
@@ -2426,20 +2428,20 @@
    <text:p text:style-name="P15">4,33333.... n&apos;est pas un nombre décimal car la partie décimale de ce nombre est infinie.</text:p>
    <text:p text:style-name="P8"/>
    <text:p text:style-name="P15">Remarque : </text:p>
-   <text:list xml:id="list646688340" text:style-name="L2">
+   <text:list xml:id="list4116656836936907663" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P38">Un nombre entier est un nombre décimal dont la partie décimale est nulle.</text:p>
+     <text:p text:style-name="P37">Un nombre entier est un nombre décimal dont la partie décimale est nulle.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P8"/>
    <text:p text:style-name="P15">Propriété:</text:p>
    <text:p text:style-name="P15">On ne change par un nombre décimal si on ajoute ou on enlève :</text:p>
-   <text:list xml:id="list3779456535" text:style-name="L3">
+   <text:list xml:id="list6033916699126402897" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P39">des 0 avant la partie entière,</text:p>
+     <text:p text:style-name="P38">des 0 avant la partie entière,</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P39">des 0 après la partie décimale.</text:p>
+     <text:p text:style-name="P38">des 0 après la partie décimale.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P8"/>
@@ -2451,7 +2453,7 @@
    <text:p text:style-name="P8"/>
    <text:p text:style-name="P18">Attention: on place toujours le chiffre des unités en premier !</text:p>
    <text:p text:style-name="P11"/>
-   <text:p text:style-name="P5"><draw:frame draw:style-name="fr1" draw:name="Image2" text:anchor-type="as-char" svg:width="16.32cm" svg:height="8.38cm" draw:z-index="1"><draw:image loext:mime-type="image/png">
+   <text:p text:style-name="P5"><draw:frame draw:style-name="fr1" draw:name="Image2" text:anchor-type="as-char" svg:width="16.32cm" svg:height="8.38cm" draw:z-index="1"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA3EAAAHLCAYAAABmuhF2AAAACXBIWXMAAA7DAAAOxAGILj6j
        AAFN6UlEQVR4nOydB3wUxfuHn6vJpffeE3rvvfcO0kF6R6qogCCIgIigAoIovfemSO+99957
        r4HUu0vuP3tJIEBAf39FiM6j97mwOzv7zszu3nz3nXdGa7FYXIDcSCQSiUQikUgkEonkvUdL
@@ -4044,10 +4046,10 @@
    <text:p text:style-name="P17">456,23 = (4 x 100) + (5x10) + (6x1) + (2x0,1) + (3x0 ,01)</text:p>
    <text:p text:style-name="P11"/>
    <text:p text:style-name="P11"/>
-   <text:p text:style-name="P17">Exercice </text:p>
+   <text:p text:style-name="P17"><text:soft-page-break/>Exercice </text:p>
    <text:p text:style-name="P17">a. Écrire correctement et lire les trois nombres placés dans le tableau</text:p>
    <text:p text:style-name="P17">…................................... …........................................ ….........................................</text:p>
-   <text:p text:style-name="P17"><text:soft-page-break/>b. Placer dans le tableau : 15 000,5 366 008,701 25 032 780,098</text:p>
+   <text:p text:style-name="P17">b. Placer dans le tableau : 15 000,5 366 008,701 25 032 780,098</text:p>
    <text:p text:style-name="P17">c. Placer dans le tableau le nombre 1 865,34 :</text:p>
    <text:p text:style-name="P5"><text:span text:style-name="T9">– Le chiffre des dizaines de 1865,34 est....</text:span><text:span text:style-name="T18">6</text:span><text:span text:style-name="T9">.. Le nombre de dizaines 1 865,34 est …..</text:span><text:span text:style-name="T18">186</text:span><text:span text:style-name="T9">..... car 1 865,34</text:span></text:p>
    <text:p text:style-name="P17">peut se décomposer en 186 dizaines, 5 unités et 34 centièmes.</text:p>
@@ -4086,7 +4088,7 @@
     </table:table-row>
     <table:table-row table:style-name="Tableau1.1">
      <table:table-cell table:style-name="Tableau1.A1" table:number-columns-spanned="2" office:value-type="string">
-      <text:p text:style-name="P28"><text:span text:style-name="T24">É</text:span><text:span text:style-name="T23">criture sous la forme d’une fraction décimale :</text:span><text:span text:style-name="T25"> </text:span><text:span text:style-name="T26"><draw:frame draw:style-name="fr2" draw:name="Objet2" text:anchor-type="as-char" svg:y="-0.741cm" svg:width="1.393cm" svg:height="1.207cm" draw:z-index="2"><draw:object>
+      <text:p text:style-name="P28"><text:span text:style-name="T24">É</text:span><text:span text:style-name="T23">criture sous la forme d’une fraction décimale :</text:span><text:span text:style-name="T25"> </text:span><text:span text:style-name="T26"><draw:frame draw:style-name="fr2" draw:name="Objet2" text:anchor-type="as-char" svg:y="-0.741cm" svg:width="1.141cm" svg:height="1cm" draw:z-index="2"><draw:object>
           <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
            <semantics>
             <mfrac>
@@ -4100,14 +4102,14 @@
           <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAXQEAADm
            AwAAHwAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAHMEAADlAwAAlQAB
            AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlv
-           biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQAC
+           biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
            AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACACAAAACEAAAAcgEAAAQAMjgzNkwD
            AAAAAAQABAAyADgAMwA2AIwAAQAAAAAAiwABAAIAAAAfAIUAAQAFAAAAAAAAAAGEAAEABQAA
            AAAAAAAAigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACmAQAA//8AAAAABQAAAAAA
-           AAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAA
+           AAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAA
            AGcAAQAQAAAAhAAAANwBAAAFBAAA8AEAAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8
            AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAA
-           AQD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAHQAAAO4A
+           AAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAHQAAAO4A
            AACEAwAAAwAxMDB5AgAAAAADAAMAMQAwADAAjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAA
            AAkAjAABAAAAAAA=
           </office:binary-data>
@@ -4242,7 +4244,7 @@
       <text:p text:style-name="P35"/>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau3.E2" office:value-type="string">
-      <text:p text:style-name="P34"><draw:frame draw:style-name="fr2" draw:name="Objet3" text:anchor-type="as-char" svg:y="-0.637cm" svg:width="1.016cm" svg:height="1.035cm" draw:z-index="3"><draw:object>
+      <text:p text:style-name="P34"><draw:frame draw:style-name="fr2" draw:name="Objet3" text:anchor-type="as-char" svg:y="-0.637cm" svg:width="0.935cm" svg:height="1cm" draw:z-index="3"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mfrac>
@@ -4253,16 +4255,16 @@
           </semantics>
          </math>
         </draw:object><draw:image>
-         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAaQDAADm
-          AwAAHwAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAKMDAADlAwAAlQAB
+         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAaUDAADm
+          AwAAHwAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAKQDAADlAwAAlQAB
           AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlv
-          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQAC
+          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
           AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACAB0AAACEAAAAcgEAAAMAMTg0eQIA
           AAAAAwADADEAOAA0AIwAAQAAAAAAiwABAAIAAAAfAIUAAQAFAAAAAAAAAAGEAAEABQAAAAAA
           AAAAigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACmAQAA//8AAAAABQAAAAAAAAD/
-          AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAGcA
-          AQAQAAAAhAAAANwBAAA1AwAA8AEAAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAA
-          EABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/
+          AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAGcA
+          AQAQAAAAhAAAANwBAAA2AwAA8AEAAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAA
+          EABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/
           AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAAkBAACE
           AwAAAgAxMKYBAAAAAAIAAgAxADAAjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAAB
           AAAAAAA=
@@ -4302,7 +4304,7 @@
       <text:p text:style-name="P35"/>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau3.E2" office:value-type="string">
-      <text:p text:style-name="P34"><draw:frame draw:style-name="fr2" draw:name="Objet1" text:anchor-type="as-char" svg:y="-0.637cm" svg:width="1.429cm" svg:height="1.035cm" draw:z-index="4"><draw:object>
+      <text:p text:style-name="P34"><draw:frame draw:style-name="fr2" draw:name="Objet1" text:anchor-type="as-char" svg:y="-0.637cm" svg:width="1.348cm" svg:height="1cm" draw:z-index="4"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mfrac>
@@ -4316,13 +4318,13 @@
          <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAUEFAADm
           AwAAHwAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAEAFAADlAwAAlQAB
           AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlv
-          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQAC
+          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
           AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACAB0AAABYAQAAcgEAAAMANTA0eQIA
           AAAAAwADADUAMAA0AIwAAQAAAAAAiwABAAIAAAAfAIUAAQAFAAAAAAAAAAGEAAEABQAAAAAA
           AAAAigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACmAQAA//8AAAAABQAAAAAAAAD/
-          AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAGcA
+          AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAGcA
           AQAQAAAAhAAAANwBAADSBAAA8AEAAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAA
-          EABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/
+          EABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/
           AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAIwAAAIQAAACE
           AwAABQAxMDAwMB8EAAAAAAUABQAxADAAMAAwADAAjAABAAAAAACVAAEABAAAAAAAAACWAAEA
           AgAAAAkAjAABAAAAAAA=
@@ -4333,7 +4335,7 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P29"/>
+   <text:p text:style-name="P39">s</text:p>
   </office:text>
  </office:body>
 </office:document>
