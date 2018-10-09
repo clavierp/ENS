@@ -1,89 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2018-09-13T10:53:20.498722707</meta:creation-date><dc:date>2018-10-02T16:50:57.795078519</dc:date><meta:editing-duration>PT54M43S</meta:editing-duration><meta:editing-cycles>31</meta:editing-cycles><meta:generator>LibreOffice/5.2.7.2$Linux_X86_64 LibreOffice_project/20m0$Build-2</meta:generator><meta:document-statistic meta:table-count="3" meta:image-count="1" meta:object-count="23" meta:page-count="3" meta:paragraph-count="70" meta:word-count="365" meta:character-count="2861" meta:non-whitespace-character-count="2421"/></office:meta>
+ <office:meta><meta:creation-date>2018-09-13T10:53:20.498722707</meta:creation-date><dc:date>2018-10-04T07:19:11.574000000</dc:date><meta:editing-duration>PT59M3S</meta:editing-duration><meta:editing-cycles>35</meta:editing-cycles><meta:generator>LibreOffice/6.1.0.3$Windows_X86_64 LibreOffice_project/efb621ed25068d70781dc026f7e9c5187a4decd1</meta:generator><meta:print-date>2018-10-04T07:19:06.242000000</meta:print-date><meta:document-statistic meta:table-count="3" meta:image-count="1" meta:object-count="23" meta:page-count="3" meta:paragraph-count="58" meta:word-count="287" meta:character-count="2279" meta:non-whitespace-character-count="1926"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">24765</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">26989</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">14527</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">50114</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">23153</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">21772</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">6636</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">22597</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">40561</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">26988</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">14526</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">24765</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">50112</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">47916</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
-   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
-   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintFaxName" config:type="string"/>
-   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string"/>
-   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
-   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1700681</config:config-item>
-   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
-   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="ForbiddenCharacters">
     <config:config-item-map-entry>
      <config:config-item config:name="Language" config:type="string">en</config:config-item>
@@ -93,33 +39,92 @@
      <config:config-item config:name="EndLine" config:type="string"/>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
-   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Canon MF3010</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
-   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="RsidRoot" config:type="int">228147</config:config-item>
-   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
-   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
-   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">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AAAJAAkAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAACAAAAAgAAAAIAAAACAAAAAgAAAAQAAAAAAAAAAgAAAAIAAAAAAAEAAQB/AAAAfwAAAAAAAAABAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAACQAJAAcABAABAAMAAgAIAQkBCgELAQwBDQEPAQAAAAAAAAAAAAAAAAAAAAAWABYAFgAWABYAFgAWABYAFgAWABYAFgAWABYAFgAWABYAFgAWABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIAQ09NUEFUX0RVUExFWF9NT0RFEwBEdXBsZXhNb2RlOjpVbmtub3du</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">228147</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1820309</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -140,7 +145,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="fr" fo:country="FR" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -239,7 +244,7 @@
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="2" style:num-suffix="." style:num-format="1">
+   <text:outline-level-style text:level="2" style:num-prefix="Exercice " style:num-suffix="." style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
@@ -291,7 +296,7 @@
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="Tableau1" style:family="table">
-   <style:table-properties style:width="17.009cm" table:align="center" style:shadow="none"/>
+   <style:table-properties style:width="17.009cm" table:align="center"/>
   </style:style>
   <style:style style:name="Tableau1.A" style:family="table-column">
    <style:table-column-properties style:column-width="6.401cm"/>
@@ -402,88 +407,97 @@
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:color="#0066cc" style:text-line-through-style="solid" style:text-line-through-type="single" fo:font-size="14pt" officeooo:rsid="00055e60" officeooo:paragraph-rsid="00037b33" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="14pt" officeooo:rsid="00037b33" officeooo:paragraph-rsid="00037b33" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="0007c393"/>
   </style:style>
   <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="14pt" officeooo:rsid="00037b33" officeooo:paragraph-rsid="00037b33" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="14pt" officeooo:rsid="00037b33" officeooo:paragraph-rsid="00037b33" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="14pt" officeooo:rsid="00129433" officeooo:paragraph-rsid="00129433" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="14pt" officeooo:rsid="00165af3" officeooo:paragraph-rsid="00165af3" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+   <style:text-properties fo:font-size="14pt" officeooo:rsid="00129433" officeooo:paragraph-rsid="00129433" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="14pt" officeooo:rsid="00170aad" officeooo:paragraph-rsid="00170aad" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+   <style:text-properties fo:font-size="14pt" officeooo:rsid="00165af3" officeooo:paragraph-rsid="00165af3" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="14pt" officeooo:rsid="0017f235" officeooo:paragraph-rsid="0017f235" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+   <style:text-properties fo:font-size="14pt" officeooo:rsid="00170aad" officeooo:paragraph-rsid="00170aad" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="14pt" officeooo:rsid="0018ba99" officeooo:paragraph-rsid="0018ba99" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
-  </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="12pt" officeooo:rsid="000eb16c" officeooo:paragraph-rsid="000eb16c" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
-  </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#0066cc" fo:font-size="14pt" officeooo:rsid="00122b22" officeooo:paragraph-rsid="00122b22" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00165af3" officeooo:paragraph-rsid="00165af3"/>
-  </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties style:use-window-font-color="true" style:text-line-through-style="none" style:text-line-through-type="none" fo:font-size="14pt" officeooo:rsid="00170aad" officeooo:paragraph-rsid="00170aad" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="00165af3"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00165af3" officeooo:paragraph-rsid="00165af3"/>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0019f349" officeooo:paragraph-rsid="0019f349"/>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="14pt" officeooo:rsid="0018ba99" officeooo:paragraph-rsid="0018ba99" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
-  </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="14pt" officeooo:rsid="00170aad" officeooo:paragraph-rsid="00170aad" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="14pt" officeooo:rsid="0017f235" officeooo:paragraph-rsid="0017f235" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="14pt" officeooo:rsid="0017f235" officeooo:paragraph-rsid="0017f235" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="14pt" officeooo:rsid="0018ba99" officeooo:paragraph-rsid="0018ba99" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="14pt" officeooo:rsid="0018ba99" officeooo:paragraph-rsid="0018ba99" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="12pt" officeooo:rsid="000eb16c" officeooo:paragraph-rsid="000eb16c" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#0066cc" fo:font-size="14pt" officeooo:rsid="00122b22" officeooo:paragraph-rsid="00122b22" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00165af3" officeooo:paragraph-rsid="00165af3"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:use-window-font-color="true" style:text-line-through-style="none" style:text-line-through-type="none" fo:font-size="14pt" officeooo:rsid="00170aad" officeooo:paragraph-rsid="00170aad" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0019f349" officeooo:paragraph-rsid="0019f349"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="00165af3"/>
+  </style:style>
   <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="00165af3" officeooo:paragraph-rsid="0019f349"/>
+   <style:text-properties officeooo:rsid="00165af3" officeooo:paragraph-rsid="00165af3"/>
   </style:style>
   <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00165af3" officeooo:paragraph-rsid="0019f349"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0019f349"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="00165af3" officeooo:paragraph-rsid="0019f349"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="0019f349"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -522,6 +536,12 @@
   <style:style style:name="T12" style:family="text">
    <style:text-properties officeooo:rsid="0019f349"/>
   </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:font-size="20pt" officeooo:rsid="00037b33" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:font-size="20pt" officeooo:rsid="00129433" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
+  </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties style:vertical-pos="middle" style:vertical-rel="baseline" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
@@ -549,12 +569,12 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P5">Nom – Prénom : <text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:span text:style-name="T6">5</text:span>ème <text:span text:style-name="T6">B</text:span></text:p>
+   <text:p text:style-name="P13"><text:span text:style-name="T13">Nom – Prénom : <text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:span><text:span text:style-name="T14">5</text:span><text:span text:style-name="T13">ème </text:span><text:span text:style-name="T14">B</text:span></text:p>
    <text:p text:style-name="P5"/>
    <text:p text:style-name="P4">Évaluation n° 1 – Entraînement</text:p>
    <text:p text:style-name="P12"/>
-   <text:h text:style-name="P34" text:outline-level="2">QCM <text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:h>
-   <text:p text:style-name="P29"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>/<text:span text:style-name="T12">3</text:span></text:p>
+   <text:h text:style-name="P35" text:outline-level="2">QCM <text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:h>
+   <text:p text:style-name="P32"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>/<text:span text:style-name="T12">3</text:span></text:p>
    <table:table table:name="Tableau1" table:style-name="Tableau1">
     <table:table-column table:style-name="Tableau1.A"/>
     <table:table-column table:style-name="Tableau1.B"/>
@@ -563,7 +583,7 @@
     <table:table-column table:style-name="Tableau1.E"/>
     <table:table-row>
      <table:table-cell table:style-name="Tableau1.A1" office:value-type="string">
-      <text:p text:style-name="P16">Dans l’expression <draw:frame draw:style-name="fr2" draw:name="Objet1" text:anchor-type="as-char" svg:y="-0.443cm" svg:width="3.023cm" svg:height="0.51cm" draw:z-index="1"><draw:object>
+      <text:p text:style-name="P17">Dans l’expression <draw:frame draw:style-name="fr2" draw:name="Objet1" text:anchor-type="as-char" svg:y="-0.386cm" svg:width="3.014cm" svg:height="0.506cm" draw:z-index="1"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -593,47 +613,47 @@
           </semantics>
          </math>
         </draw:object><draw:image>
-         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAc0LAAD7
-          AQAAVQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAMwLAAD6AQAAlQAB
+         <office:binary-data>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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          AAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgAC
-          ABoAAABOBgAAjQEAAAEAAAApAI8AAAAAAAEAAQApAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          aW9uIFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAAB
-          AAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAIsKAACNAQAAAQA00wAA
+          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
          </office:binary-data>
         </draw:image>
-       </draw:frame> quel<text:span text:style-name="T12">le</text:span> est le l’opération a faire en premier ?</text:p>
+       </draw:frame><text:s/>quel<text:span text:style-name="T12">le</text:span> est le l’opération a faire en premier ?</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.A1" office:value-type="string">
-      <text:p text:style-name="P30"><draw:frame draw:style-name="fr2" draw:name="Objet2" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="0.915cm" svg:height="0.469cm" draw:z-index="2"><draw:object>
+      <text:p text:style-name="P24"><draw:frame draw:style-name="fr2" draw:name="Objet2" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="0.915cm" svg:height="0.469cm" draw:z-index="2"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -648,13 +668,13 @@
          <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZIDAADU
           AQAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAJEDAADTAQAAlQAB
           AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlv
-          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQAC
           AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAMtMAAAAA
           AAEAAQAyAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAA
-          AAAApgEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAF
+          AAAApgEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAAiAABAAIAAAABAIcAAQAF
           AAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAFgBAAByAQAAAQAAACsA9gAAAAAAAQABACsA
           jAABAAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAA
-          AACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUA
+          AACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUA
           AAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAYQIAAHIBAAABADHTAAAAAAABAAEAMQCMAAEA
           AAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
          </office:binary-data>
@@ -662,7 +682,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.A1" office:value-type="string">
-      <text:p text:style-name="P30"><draw:frame draw:style-name="fr2" draw:name="Objet3" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="1.011cm" svg:height="0.469cm" draw:z-index="3"><draw:object>
+      <text:p text:style-name="P24"><draw:frame draw:style-name="fr2" draw:name="Objet3" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="1.011cm" svg:height="0.469cm" draw:z-index="3"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -674,16 +694,16 @@
           </semantics>
          </math>
         </draw:object><draw:image>
-         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAfQDAADU
-          AQAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAPMDAADTAQAAlQAB
+         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAfEDAADU
+          AQAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAPADAADTAQAAlQAB
           AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlv
-          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQAC
           AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAM9MAAAAA
           AAEAAQAzAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAA
-          AAAApgEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAF
+          AAAApgEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAAiAABAAIAAAABAIcAAQAF
           AAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAD4BAAByAQAAAQAAABIiTwEAAAAAAQABABIi
           jAABAAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAA
-          AACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUA
+          AACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUA
           AAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAsAIAAHIBAAABADTTAAAAAAABAAEANACMAAEA
           AAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
          </office:binary-data>
@@ -691,7 +711,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.A1" office:value-type="string">
-      <text:p text:style-name="P32"><draw:frame draw:style-name="fr2" draw:name="Objet4" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="1.088cm" svg:height="0.469cm" draw:z-index="4"><draw:object>
+      <text:p text:style-name="P25"><draw:frame draw:style-name="fr2" draw:name="Objet4" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="1.088cm" svg:height="0.469cm" draw:z-index="4"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -703,16 +723,16 @@
           </semantics>
          </math>
         </draw:object><draw:image>
-         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAUEEAADU
-          AQAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAEAEAADTAQAAlQAB
+         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAT8EAADU
+          AQAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAD4EAADTAQAAlQAB
           AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlv
-          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQAC
           AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACAB0AAABqAAAAcgEAAAMALi4uPQEA
           AAAAAwADAC4ALgAuAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3lt
-          Ym9sAAAAAAAApgEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAAB
+          Ym9sAAAAAAAApgEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAAiAABAAIAAAAB
           AIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAKcBAAByAQAAAQAAANcATwEAAAAA
           AQABANcAjAABAAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2Vy
-          aWYAAAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
+          aWYAAAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEA
           hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAA/wIAAHIBAAABADPTAAAAAAABAAEA
           MwCMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
          </office:binary-data>
@@ -720,7 +740,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.E1" office:value-type="string">
-      <text:p text:style-name="P30"><draw:frame draw:style-name="fr2" draw:name="Objet5" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="1.05cm" svg:height="0.469cm" draw:z-index="5"><draw:object>
+      <text:p text:style-name="P24"><draw:frame draw:style-name="fr2" draw:name="Objet5" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="1.05cm" svg:height="0.469cm" draw:z-index="5"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -735,13 +755,13 @@
          <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAARYEAADU
           AQAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAABUEAADTAQAAlQAB
           AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlv
-          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQAC
           AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAABqAAAAcgEAAAIAMTamAQAA
           AAACAAIAMQA2AIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9u
-          IFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIA
+          IFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAAiAABAAIA
           AAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAEYCAAByAQAAAQA6dQAAAAAA
           AQABADoAjAABAAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2Vy
-          aWYAAAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
+          aWYAAAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEA
           hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAA5QIAAHIBAAABADLTAAAAAAABAAEA
           MgCMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
          </office:binary-data>
@@ -751,10 +771,10 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tableau1.A2" office:value-type="string">
-      <text:p text:style-name="P16">J’achète 3 livres à 2,5€ pièces. Je paye avec un billet de 10€. Quel<text:span text:style-name="T12">le</text:span> <text:span text:style-name="T7">est l’expression qui me permet de calculer ce que l’on doit me rendre ?</text:span></text:p>
+      <text:p text:style-name="P17">J’achète 3 livres à 2,5€ pièces. Je paye avec un billet de 10€. Quel<text:span text:style-name="T12">le</text:span> <text:span text:style-name="T7">est l’expression qui me permet de calculer ce que l’on doit me rendre ?</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.A2" office:value-type="string">
-      <text:p text:style-name="P31"><draw:frame draw:style-name="fr2" draw:name="Objet6" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="2.178cm" svg:height="0.469cm" draw:z-index="6"><draw:object>
+      <text:p text:style-name="P20"><draw:frame draw:style-name="fr2" draw:name="Objet6" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="2.178cm" svg:height="0.469cm" draw:z-index="6"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -776,28 +796,28 @@
           </semantics>
          </math>
         </draw:object><draw:image>
-         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAYMIAADU
-          AQAAOQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAIIIAADTAQAAlQAB
+         <office:binary-data>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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
           lgABAAIAAAAJAIwAAQAAAAAA
          </office:binary-data>
@@ -805,7 +825,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.A2" office:value-type="string">
-      <text:p text:style-name="P31"><draw:frame draw:style-name="fr2" draw:name="Objet7" text:anchor-type="as-char" svg:y="-0.443cm" svg:width="2.487cm" svg:height="0.51cm" draw:z-index="7"><draw:object>
+      <text:p text:style-name="P20"><draw:frame draw:style-name="fr2" draw:name="Objet7" text:anchor-type="as-char" svg:y="-0.443cm" svg:width="2.487cm" svg:height="0.51cm" draw:z-index="7"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -833,33 +853,33 @@
           </semantics>
          </math>
         </draw:object><draw:image>
-         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAbcJAAD7
-          AQAARwAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAALYJAAD6AQAAlQAB
+         <office:binary-data>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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          AAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgAC
-          ABcAAADtBgAAjQEAAAEAMtMAAAAAAAEAAQAyAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAA
+          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
-          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
+          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
-          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
+          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
           AAAAAA==
@@ -868,7 +888,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.A2" office:value-type="string">
-      <text:p text:style-name="P31"><draw:frame draw:style-name="fr2" draw:name="Objet8" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="2.171cm" svg:height="0.469cm" draw:z-index="8"><draw:object>
+      <text:p text:style-name="P20"><draw:frame draw:style-name="fr2" draw:name="Objet8" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="2.171cm" svg:height="0.469cm" draw:z-index="8"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -888,36 +908,36 @@
           </semantics>
          </math>
         </draw:object><draw:image>
-         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAXkIAADU
-          AQAAOQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAHgIAADTAQAAlQAB
+         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAXcIAADU
+          AQAAOQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAHYIAADTAQAAlQAB
           AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlv
-          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQAC
           AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAABqAAAAcgEAAAIAMTCmAQAA
           AAACAAIAMQAwAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9u
-          IFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIA
-          AAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGQAAAEYCAAByAQAAAwDigJPTAAAA
-          AAABAAEAEyCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBT
-          ZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAA
-          AQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABpAwAAcgEAAAEAM9MAAAAAAAEA
-          AQAzAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAA
-          pgEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA
-          /////wCGAAEABAAAAAAAAAByAAIAGgAAAFcEAAByAQAAAQAAANcATwEAAAAAAQABANcAjAAB
-          AAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACm
-          AQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/
-          ////AIYAAQAEAAAAAAAAAHIAAgAXAAAArwUAAHIBAAABADLTAAAAAAABAAEAMgCMAAEAAAAA
-          AIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKYBAAAA
-          AAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8A
-          hgABAAQAAAAAAAAAcgACABcAAACdBgAAcgEAAAEALGoAAAAAAAEAAQAsAIwAAQAAAAAAiwAB
-          AAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApgEAAAAAAAAA
-          AAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEA
-          BAAAAAAAAAByAAIAFwAAADwHAAByAQAAAQA10wAAAAAAAQABADUAjAABAAAAAACVAAEABAAA
-          AAAAAACWAAEAAgAAAAkAjAABAAAAAAA=
+          IFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAIA/wMAAAAAAAAAAQD/AwAAAAAAiAABAAIA
+          AAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAEYCAAByAQAAAQCW0wAAAAAA
+          AQABABMgjAABAAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2Vy
+          aWYAAAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEA
+          hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAaQMAAHIBAAABADPTAAAAAAABAAEA
+          MwCMAAEAAAAAAIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKYB
+          AAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP//
+          //8AhgABAAQAAAAAAAAAcgACABoAAAA9BAAAcgEAAAEAAADXAE8BAAAAAAEAAQDXAIwAAQAA
+          AAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApgEA
+          AAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA////
+          /wCGAAEABAAAAAAAAAByAAIAFwAAAK8FAAByAQAAAQAy0wAAAAAAAQABADIAjAABAAAAAACL
+          AAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACmAQAAAAAA
+          AAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYA
+          AQAEAAAAAAAAAHIAAgAXAAAAnQYAAHIBAAABACxqAAAAAAABAAEALACMAAEAAAAAAIsAAQAC
+          AAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKYBAAAAAAAAAAAF
+          AAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQA
+          AAAAAAAAcgACABcAAAA8BwAAcgEAAAEANdMAAAAAAAEAAQA1AIwAAQAAAAAAlQABAAQAAAAA
+          AAAAlgABAAIAAAAJAIwAAQAAAAAA
          </office:binary-data>
         </draw:image>
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.E2" office:value-type="string">
-      <text:p text:style-name="P31"><draw:frame draw:style-name="fr2" draw:name="Objet9" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="1.397cm" svg:height="0.469cm" draw:z-index="9"><draw:object>
+      <text:p text:style-name="P20"><draw:frame draw:style-name="fr2" draw:name="Objet9" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="1.397cm" svg:height="0.469cm" draw:z-index="9"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -935,22 +955,22 @@
           </semantics>
          </math>
         </draw:object><draw:image>
-         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAXUFAADU
-          AQAAKwAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAHQFAADTAQAAlQAB
+         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAXMFAADU
+          AQAAKwAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAHIFAADTAQAAlQAB
           AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlv
-          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQAC
           AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAMtMAAAAA
           AAEAAQAyAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNl
-          cmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAAB
+          cmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAAiAABAAIAAAAB
           AIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAHIBAAByAQAAAQAsagAAAAAAAQAB
           ACwAjAABAAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYA
-          AAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwAB
+          AAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwAB
           AAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAA9wEAAHIBAAABADXTAAAAAAABAAEANQCM
           AAEAAAAAAIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKYBAAD/
-          /wAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8A
+          /wAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8A
           hgABAAQAAAAAAAAAcgACABoAAADlAgAAcgEAAAEAAADXAE8BAAAAAAEAAQDXAIwAAQAAAAAA
           iwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApgEAAAAA
-          AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCG
+          AAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCG
           AAEABAAAAAAAAAByAAIAFwAAAD0EAAByAQAAAQAz0wAAAAAAAQABADMAjAABAAAAAACVAAEA
           BAAAAAAAAACWAAEAAgAAAAkAjAABAAAAAAA=
          </office:binary-data>
@@ -960,7 +980,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tableau1.A2" office:value-type="string">
-      <text:p text:style-name="P18">Quel est le résultat de <draw:frame draw:style-name="fr2" draw:name="Objet10" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="3.59cm" svg:height="0.469cm" draw:z-index="10"><draw:object>
+      <text:p text:style-name="P19">Quel est le résultat de <draw:frame draw:style-name="fr2" draw:name="Objet10" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="3.59cm" svg:height="0.469cm" draw:z-index="10"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -990,40 +1010,40 @@
           </semantics>
          </math>
         </draw:object><draw:image>
-         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAQAOAADU
-          AQAAVQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAP8NAADTAQAAlQAB
+         <office:binary-data>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
-          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
+          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
-          cmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAAB
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
           AAkAjAABAAAAAAA=
          </office:binary-data>
@@ -1031,7 +1051,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.A2" office:value-type="string">
-      <text:p text:style-name="P33"><draw:frame draw:style-name="fr2" draw:name="Objet11" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="1.896cm" svg:height="0.469cm" draw:z-index="11"><draw:object>
+      <text:p text:style-name="P22"><draw:frame draw:style-name="fr2" draw:name="Objet11" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="1.896cm" svg:height="0.469cm" draw:z-index="11"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -1048,13 +1068,13 @@
          <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAWUHAADU
           AQAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAGQHAADTAQAAlQAB
           AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlv
-          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQAC
           AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAABqAAAAcgEAAAIAMjemAQAA
           AAACAAIAMgA3AIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9u
-          IFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIA
+          IFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAAiAABAAIA
           AAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAEYCAAByAQAAAQAsagAAAAAA
           AQABACwAjAABAAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2Vy
-          aWYAAAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
+          aWYAAAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEA
           hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAjAAAA5QIAAHIBAAAFADYwMTk4HwQAAAAA
           BQAFADYAMAAxADkAOACMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
          </office:binary-data>
@@ -1062,7 +1082,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.A2" office:value-type="string">
-      <text:p text:style-name="P33"><draw:frame draw:style-name="fr2" draw:name="Objet12" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="1.909cm" svg:height="0.469cm" draw:z-index="12"><draw:object>
+      <text:p text:style-name="P22"><draw:frame draw:style-name="fr2" draw:name="Objet12" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="1.909cm" svg:height="0.469cm" draw:z-index="12"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -1079,13 +1099,13 @@
          <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAW8HAADU
           AQAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAG4HAADTAQAAlQAB
           AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlv
-          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQAC
           AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAMtMAAAAA
           AAEAAQAyAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNl
-          cmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAAB
+          cmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAAiAABAAIAAAAB
           AIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAHIBAAByAQAAAQAsagAAAAAAAQAB
           ACwAjAABAAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYA
-          AAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwAB
+          AAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwAB
           AAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAmAAAAEQIAAHIBAAAGADQ1NzY2NPIEAAAAAAYA
           BgA0ADUANwA2ADYANACMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
          </office:binary-data>
@@ -1093,7 +1113,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.A2" office:value-type="string">
-      <text:p text:style-name="P33"><draw:frame draw:style-name="fr2" draw:name="Objet13" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="2.103cm" svg:height="0.469cm" draw:z-index="13"><draw:object>
+      <text:p text:style-name="P22"><draw:frame draw:style-name="fr2" draw:name="Objet13" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="2.103cm" svg:height="0.469cm" draw:z-index="13"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -1110,13 +1130,13 @@
          <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAATIIAADU
           AQAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAADEIAADTAQAAlQAB
           AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlv
-          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQAC
           AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAABqAAAAcgEAAAIAMTmmAQAA
           AAACAAIAMQA5AIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9u
-          IFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIA
+          IFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAAiAABAAIA
           AAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAEYCAAByAQAAAQAsagAAAAAA
           AQABACwAjAABAAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2Vy
-          aWYAAAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
+          aWYAAAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEA
           hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAmAAAAygIAAHIBAAAGADc3NDIxNvIEAAAA
           AAYABgA3ADcANAAyADEANgCMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAA
           AA==
@@ -1125,7 +1145,7 @@
        </draw:frame></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.E2" office:value-type="string">
-      <text:p text:style-name="P33"><draw:frame draw:style-name="fr2" draw:name="Objet14" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="2.111cm" svg:height="0.469cm" draw:z-index="14"><draw:object>
+      <text:p text:style-name="P22"><draw:frame draw:style-name="fr2" draw:name="Objet14" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="2.111cm" svg:height="0.469cm" draw:z-index="14"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -1142,13 +1162,13 @@
          <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAToIAADU
           AQAAHQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAADkIAADTAQAAlQAB
           AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlv
-          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQAC
           AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAABqAAAAcgEAAAIAMzOmAQAA
           AAACAAIAMwAzAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9u
-          IFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIA
+          IFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAAiAABAAIA
           AAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAEYCAAByAQAAAQAsagAAAAAA
           AQABACwAjAABAAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2Vy
-          aWYAAAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
+          aWYAAAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEA
           hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAmAAAAygIAAHIBAAAGADc0NTEyNPIEAAAA
           AAYABgA3ADQANQAxADIANACMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAA
           AA==
@@ -1159,14 +1179,14 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P7"/>
-   <text:h text:style-name="P35" text:outline-level="2">Effectue les calculs en respectant la priorité opératoire<text:tab/><text:tab/></text:h>
-   <text:p text:style-name="P29"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>/<text:span text:style-name="T12">4</text:span></text:p>
+   <text:h text:style-name="P36" text:outline-level="2">Effectue les calculs en respectant la priorité opératoire<text:tab/></text:h>
+   <text:p text:style-name="P32"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>/<text:span text:style-name="T12">4</text:span></text:p>
    <table:table table:name="Tableau2" table:style-name="Tableau2">
     <table:table-column table:style-name="Tableau2.A"/>
     <table:table-column table:style-name="Tableau2.B"/>
     <table:table-row>
      <table:table-cell table:style-name="Tableau2.A1" office:value-type="string">
-      <text:p text:style-name="P17"><draw:frame draw:style-name="fr2" draw:name="Objet15" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="2.824cm" svg:height="0.469cm" draw:z-index="15"><draw:object>
+      <text:p text:style-name="P18"><draw:frame draw:style-name="fr2" draw:name="Objet15" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="2.824cm" svg:height="0.469cm" draw:z-index="15"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -1190,48 +1210,48 @@
           </semantics>
          </math>
         </draw:object><draw:image>
-         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAQYLAADU
-          AQAARwAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAAULAADTAQAAlQAB
+         <office:binary-data>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
-          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
+          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQAC
           AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAcgEAAAEAQQIBAAAA
           AAEAAQBBAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAA
-          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
+          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
-          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
+          AACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUA
+          AAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAA/wIAAHIBAAABADLTAAAAAAABAAEAMgCMAAEA
           AAAAAIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKYBAAD//wAA
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          AAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIA
-          FwAAADMJAAByAQAAAQA6dQAAAAAAAQABADoAjAABAAAAAACLAAEAAgAAAB8AigABAEIAAAAD
+          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
-          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
+          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
           AAEAAAAAAA==
          </office:binary-data>
         </draw:image>
        </draw:frame></text:p>
-      <text:p text:style-name="P17"/>
-      <text:p text:style-name="P17"/>
-      <text:p text:style-name="P17"/>
-      <text:p text:style-name="P17"/>
-      <text:p text:style-name="P17"/>
-      <text:p text:style-name="P17"/>
+      <text:p text:style-name="P18"/>
+      <text:p text:style-name="P18"/>
+      <text:p text:style-name="P18"/>
+      <text:p text:style-name="P18"/>
+      <text:p text:style-name="P18"/>
+      <text:p text:style-name="P18"/>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau2.B1" office:value-type="string">
-      <text:p text:style-name="P17"><draw:frame draw:style-name="fr2" draw:name="Objet16" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="3.129cm" svg:height="0.469cm" draw:z-index="16"><draw:object>
+      <text:p text:style-name="P18"><draw:frame draw:style-name="fr2" draw:name="Objet16" text:anchor-type="as-char" svg:y="-0.439cm" svg:width="3.129cm" svg:height="0.469cm" draw:z-index="16"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -1257,39 +1277,39 @@
           </semantics>
          </math>
         </draw:object><draw:image>
-         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAATgMAADU
-          AQAAVQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAADcMAADTAQAAlQAB
+         <office:binary-data>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
-          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
+          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQAC
           AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAQgIBAAAA
           AAEAAQBCAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAA
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
          </office:binary-data>
@@ -1299,7 +1319,7 @@
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Tableau2.A2" office:value-type="string">
-      <text:p text:style-name="P17"><draw:frame draw:style-name="fr2" draw:name="Objet17" text:anchor-type="as-char" svg:y="-0.443cm" svg:width="3.337cm" svg:height="0.51cm" draw:z-index="17"><draw:object>
+      <text:p text:style-name="P18"><draw:frame draw:style-name="fr2" draw:name="Objet17" text:anchor-type="as-char" svg:y="-0.443cm" svg:width="3.337cm" svg:height="0.51cm" draw:z-index="17"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -1329,56 +1349,56 @@
           </semantics>
          </math>
         </draw:object><draw:image>
-         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAQkNAAD7
-          AQAAVQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAAgNAAD6AQAAlQAB
+         <office:binary-data>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
-          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
+          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
-          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
+          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
-          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
+          AACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUA
           AAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAA/wIAAI0BAAACADE3pgEAAAAAAgACADEANwCM
           AAEAAAAAAIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKYBAAD/
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          ZXJhdGlvbiBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAA
-          AIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAAAqCwAAjQEAAAEA
+          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
-          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
+          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
          </office:binary-data>
         </draw:image>
        </draw:frame></text:p>
-      <text:p text:style-name="P17"/>
-      <text:p text:style-name="P17"/>
-      <text:p text:style-name="P17"/>
-      <text:p text:style-name="P17"/>
-      <text:p text:style-name="P17"/>
-      <text:p text:style-name="P17"/>
-      <text:p text:style-name="P17"/>
-      <text:p text:style-name="P17"/>
-      <text:p text:style-name="P17"/>
+      <text:p text:style-name="P18"/>
+      <text:p text:style-name="P18"/>
+      <text:p text:style-name="P18"/>
+      <text:p text:style-name="P18"/>
+      <text:p text:style-name="P18"/>
+      <text:p text:style-name="P18"/>
+      <text:p text:style-name="P18"/>
+      <text:p text:style-name="P18"/>
+      <text:p text:style-name="P18"/>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau2.B2" office:value-type="string">
-      <text:p text:style-name="P17"><draw:frame draw:style-name="fr2" draw:name="Objet18" text:anchor-type="as-char" svg:y="-0.445cm" svg:width="4.26cm" svg:height="0.561cm" draw:z-index="18"><draw:object>
+      <text:p text:style-name="P18"><draw:frame draw:style-name="fr2" draw:name="Objet18" text:anchor-type="as-char" svg:y="-0.445cm" svg:width="4.26cm" svg:height="0.561cm" draw:z-index="18"><draw:object>
          <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
           <semantics>
            <mrow>
@@ -1418,52 +1438,52 @@
           </semantics>
          </math>
         </draw:object><draw:image>
-         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAaAQAAAv
-          AgAAcQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAJ8QAAAuAgAAlQAB
+         <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAbsRAAAi
+          AgAAcQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAALoRAAAhAgAAlQAB
           AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlv
-          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-          AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAApwEAAAEARDEBAAAA
+          biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQAC
+          AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAjQEAAAEARDEBAAAA
           AAEAAQBEAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAA
-          AAAApgEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAF
-          AAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAMIBAACnAQAAAQAAAD0ATwEAAAAAAQABAD0A
-          jAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAOIAAAAJAgAA
-          //8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////
-          AIYAAQAEAAAAAAAAAHIAAgAaAAAAGgMAAKcBAAABAAAAWwBAAAAAAAABAAEAWwCMAAEAAAAA
+          AAAApgEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAAiAABAAIAAAABAIcAAQAF
+          AAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAMIBAACNAQAAAQAAAD0ATwEAAAAAAQABAD0A
+          jAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAOIAAAC2AgAA
+          //8AAAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////
+          AIYAAQAEAAAAAAAAAHIAAgAaAAAAGgMAABECAAABAAAAWwBaAAAAAAABAAEAWwCMAAEAAAAA
           AIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKYBAAAA
-          AAAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8A
-          hgABAAQAAAAAAAAAcgACABoAAACEAwAApwEAAAIANTCmAQAAAAACAAIANQAwAIwAAQAAAAAA
+          AAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8A
+          hgABAAQAAAAAAAAAcgACABoAAAAiBAAAjQEAAAIANTCmAQAAAAACAAIANQAwAIwAAQAAAAAA
           iwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAApgEAAP//AAAAAAUA
-          AAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAA
-          AAAAAAByAAIAGgAAAEUFAACnAQAAAQAAABIiTwEAAAAAAQABABIijAABAAAAAACLAAEAAgAA
+          AAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAA
+          AAAAAAByAAIAGgAAAMoFAACNAQAAAQAAABIiTwEAAAAAAQABABIijAABAAAAAACLAAEAAgAA
           AB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACmAQAA//8AAAAABQAAAAAAAAD/
-          AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIA
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          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
-          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
+          aWYAAAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEA
+          hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAVQ0AAI0BAAABADLTAAAAAAABAAEA
+          MgCMAAEAAAAAAIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAA4gAAALYC
+          AAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP//
+          //8AhgABAAQAAAAAAAAAcgACABoAAAApDgAAEQIAAAEAAABdAFoAAAAAAAEAAQBdAIwAAQAA
           AAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAApgEAAP//AAAA
-          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
+          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
-          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
+          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
           AAAAAJYAAQACAAAACQCMAAEAAAAAAA==
          </office:binary-data>
         </draw:image>
@@ -1472,10 +1492,10 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="P8"/>
-   <text:h text:style-name="P35" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T8">Entoure</text:span> <text:span text:style-name="T8">la ou les </text:span>expression<text:span text:style-name="T8">(s)</text:span> correspondant<text:span text:style-name="T8">e(s)</text:span> au problème posé <text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:h>
-   <text:p text:style-name="P29"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>/<text:span text:style-name="T12">3 – Modéliser<text:tab/><text:tab/>/1</text:span></text:p>
-   <text:p text:style-name="P24">Énoncé du problème : au marché, Léa a acheté 4kg de poulet à 7,20€ le kg, un plateau de 5kg de pêches à 7,50€ le plateau et 3kg de crevettes. On lui a rendu 43€ lorsqu’elle a payé avec un billet de 100€. Quel est le prix d’un kilogramme de crevettes ?</text:p>
-   <text:p text:style-name="P24"><draw:frame draw:style-name="fr2" draw:name="Objet19" text:anchor-type="as-char" svg:y="-0.377cm" svg:width="5.657cm" svg:height="0.469cm" draw:z-index="19"><draw:object>
+   <text:h text:style-name="P36" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T8">Entoure</text:span> <text:span text:style-name="T8">la ou les </text:span>expression<text:span text:style-name="T8">(s)</text:span> correspondant<text:span text:style-name="T8">e(s)</text:span> au problème posé <text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/></text:h>
+   <text:p text:style-name="P32"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>/<text:span text:style-name="T12">3 – Modéliser<text:tab/><text:tab/>/1</text:span></text:p>
+   <text:p text:style-name="P29">Énoncé du problème : au marché, Léa a acheté 4kg de poulet à 7,20€ le kg, un plateau de 5kg de pêches à 7,50€ le plateau et 3kg de crevettes. On lui a rendu 43€ lorsqu’elle a payé avec un billet de 100€. Quel est le prix d’un kilogramme de crevettes ?</text:p>
+   <text:p text:style-name="P29"><draw:frame draw:style-name="fr2" draw:name="Objet19" text:anchor-type="as-char" svg:y="-0.377cm" svg:width="5.657cm" svg:height="0.469cm" draw:z-index="19"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <mrow>
@@ -1515,63 +1535,63 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAARIWAADU
-       AQAAfwAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAABEWAADTAQAAlQAB
+      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAQsWAADU
+       AQAAfwAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAAoWAADTAQAAlQAB
        AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlv
-       biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="P24"><draw:frame draw:style-name="fr2" draw:name="Objet20" text:anchor-type="as-char" svg:y="-0.383cm" svg:width="6.516cm" svg:height="0.51cm" draw:z-index="20"><draw:object>
+   <text:p text:style-name="P29"><draw:frame draw:style-name="fr2" draw:name="Objet20" text:anchor-type="as-char" svg:y="-0.383cm" svg:width="6.516cm" svg:height="0.51cm" draw:z-index="20"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <mrow>
@@ -1631,80 +1651,80 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAWwZAAD7
-       AQAAqQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAGsZAAD6AQAAlQAB
+      <office:binary-data>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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       BQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAE
+       AAAAAAAAAHIAAgAaAAAAVwcAAI0BAAACADQzpgEAAAAAAgACADQAMwCMAAEAAAAAAIsAAQAC
        AAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKYBAAAAAAAAAAAF
-       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
+       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
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="P24"><draw:frame draw:style-name="fr2" draw:name="Objet21" text:anchor-type="as-char" svg:y="-0.383cm" svg:width="6.512cm" svg:height="0.51cm" draw:z-index="21"><draw:object>
+   <text:p text:style-name="P29"><draw:frame draw:style-name="fr2" draw:name="Objet21" text:anchor-type="as-char" svg:y="-0.383cm" svg:width="6.512cm" svg:height="0.51cm" draw:z-index="21"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <mrow>
@@ -1764,81 +1784,80 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAWgZAAD7
-       AQAAqQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAGcZAAD6AQAAlQAB
+      <office:binary-data>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
-       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
+       biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQAC
        AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAjQEAAAEAQxkBAAAA
        AAEAAQBDAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAA
-       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
+       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
-       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
+       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
-       AAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQA
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
-       AAAA
+       BQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAE
+       AAAAAAAAAHIAAgAXAAAA8hMAAI0BAAABACxqAAAAAAABAAEALACMAAEAAAAAAIsAAQACAAAA
+       HwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAA
+       AAAAAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAA
+       AAAAcgACABoAAACRFAAAjQEAAAIANTCmAQAAAAACAAIANQAwAIwAAQAAAAAAiwABAAIAAAAf
+       AIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAApgEAAP//AAAAAAUAAAAAAAAA/wMA
+       AAAAAAAAAQD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIA
+       GgAAADkWAACNAQAAAQAAACkAjwAAAAAAAQABACkAjAABAAAAAACLAAEAAgAAAB8AigABADwA
+       AAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACmAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAB
+       AP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAA1xYA
+       AI0BAAABAAAAKQCPAAAAAAABAAEAKQCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAA
+       ABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA
+       /wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAAB2FwAA
+       jQEAAAEAOnUAAAAAAAEAAQA6AIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABM
+       aWJlcmF0aW9uIFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAA
+       AAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAABUYAACNAQAA
+       AQAz0wAAAAAAAQABADMAjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAABAAAAAAA=
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="P24"><draw:frame draw:style-name="fr2" draw:name="Objet22" text:anchor-type="as-char" svg:y="-0.379cm" svg:width="6.565cm" svg:height="0.51cm" draw:z-index="22"><draw:object>
+   <text:p text:style-name="P29"><draw:frame draw:style-name="fr2" draw:name="Objet22" text:anchor-type="as-char" svg:y="-0.379cm" svg:width="6.565cm" svg:height="0.51cm" draw:z-index="22"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <mrow>
@@ -1898,81 +1917,80 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZwZAAD7
-       AQAAqQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAJsZAAD6AQAAlQAB
+      <office:binary-data>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
-       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
+       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
-       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
+       AAAApgEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAAiAABAAIAAAABAIcAAQAF
        AAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAMIBAACNAQAAAQAAAD0ATwEAAAAAAQABAD0A
        jAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACmAQAA
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       AAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAX
-       AAAAxRcAAI0BAAABADPTAAAAAAABAAEAMwCMAAEAAAAAAIsAAQACAAAAHwCKAAEAPAAAAAMA
-       NgAAAAoAT3BlblN5bWJvbAAAAAAAAKYBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMA
-       AAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAAC0GAAAjQEA
-       AAEAAAApAI8AAAAAAAEAAQApAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAA
-       AAAA
+       AAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAX
+       AAAADBcAAI0BAAABADp1AAAAAAABAAEAOgCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMA
+       PAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAA
+       AAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACr
+       FwAAjQEAAAEAM9MAAAAAAAEAAQAzAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAA
+       CgBPcGVuU3ltYm9sAAAAAAAApgEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAA
+       iAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAJkYAACNAQAAAQAA
+       ACkAjwAAAAAAAQABACkAjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAABAAAAAAA=
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="P24"><draw:frame draw:style-name="fr2" draw:name="Objet23" text:anchor-type="as-char" svg:y="-0.383cm" svg:width="6.211cm" svg:height="0.51cm" draw:z-index="23"><draw:object>
+   <text:p text:style-name="P29"><draw:frame draw:style-name="fr2" draw:name="Objet23" text:anchor-type="as-char" svg:y="-0.383cm" svg:width="6.211cm" svg:height="0.51cm" draw:z-index="23"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <mrow>
@@ -2024,77 +2042,77 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAToYAAD7
-       AQAAmwAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAADkYAAD6AQAAlQAB
+      <office:binary-data>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
-       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
+       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
-       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
+       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
-       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
+       //8AAAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////
        AIYAAQAEAAAAAAAAAHIAAgAaAAAA5QIAAI0BAAABAAAAKACPAAAAAAABAAEAKACMAAEAAAAA
        AIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAKYBAAD//wAAAAAF
-       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
+       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
-       AAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAA
-       AAAAAAByAAIAHQAAACIEAACNAQAAAwAxMDB5AgAAAAADAAMAMQAwADAAjAABAAAAAACLAAEA
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
-       AAEAAgAAAAkAjAABAAAAAAA=
+       AAAA/wMAAAAAAAAAAQD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAA
+       AAByAAIAFwAAAFMWAACNAQAAAQA6dQAAAAAAAQABADoAjAABAAAAAACLAAEAAgAAAB8AigAB
+       AEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACmAQAAAAAAAAAABQAAAAAAAAD/
+       AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIA
+       AgAXAAAA8hYAAI0BAAABADPTAAAAAAABAAEAMwCMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQAC
+       AAAACQCMAAEAAAAAAA==
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Le résultat de Marie te semble-t’il <text:span text:style-name="T12">possible</text:span> ? Justifie ta réponse.</text:h>
-   <text:p text:style-name="P29"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>/<text:span text:style-name="T12">3 – Raisonner<text:tab/><text:tab/>/1 – Communiquer <text:tab/><text:tab/>/1</text:span></text:p>
-   <text:p text:style-name="P25">Marie a acheté 3 douzaines de pommes à 0,97€ la pomme. Elle a calculé qu’elle doit payer 34,92€. Ce résultat te semble-t’il <text:span text:style-name="T12">possible</text:span> ? Pourquoi ?</text:p>
+   <text:p text:style-name="P32"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>/<text:span text:style-name="T12">3 – Raisonner<text:tab/><text:tab/>/1 – Communiquer <text:tab/><text:tab/>/1</text:span></text:p>
+   <text:p text:style-name="P30">Marie a acheté 3 douzaines de pommes à 0,97€ la pomme. Elle a calculé qu’elle doit payer 34,92€. Ce résultat te semble-t’il <text:span text:style-name="T12">possible</text:span> ? Pourquoi ?</text:p>
    <text:p text:style-name="P9">…………………………………………………………………………………………</text:p>
    <text:p text:style-name="P9">…………………………………………………………………………………………</text:p>
    <text:p text:style-name="P9">…………………………………………………………………………………………</text:p>
@@ -2102,14 +2120,14 @@
    <text:p text:style-name="P9">…………………………………………………………………………………………</text:p>
    <text:p text:style-name="P9">…………………………………………………………………………………………</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Combien mesure l’arbre ? </text:h>
-   <text:p text:style-name="P29"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>/<text:span text:style-name="T12">4 – Raisonner<text:tab/><text:tab/>/2 – Communiquer <text:tab/><text:tab/>/2</text:span></text:p>
-   <text:p text:style-name="P28">Donne une estimation de la hauteur de l’arbre. Explique ta démarche.</text:p>
+   <text:p text:style-name="P32"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>/<text:span text:style-name="T12">4 – Raisonner<text:tab/><text:tab/>/2 – Communiquer <text:tab/><text:tab/>/2</text:span></text:p>
+   <text:p text:style-name="P31">Donne une estimation de la hauteur de l’arbre. Explique ta démarche.</text:p>
    <table:table table:name="Tableau3" table:style-name="Tableau3">
     <table:table-column table:style-name="Tableau3.A"/>
     <table:table-column table:style-name="Tableau3.B"/>
     <table:table-row>
      <table:table-cell table:style-name="Tableau3.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents"><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="as-char" svg:width="7.932cm" svg:height="5.292cm" draw:z-index="0"><draw:image>
+      <text:p text:style-name="Table_20_Contents"><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="as-char" svg:width="7.932cm" svg:height="5.292cm" draw:z-index="0"><draw:image loext:mime-type="image/jpeg">
          <office:binary-data>/9j/4AAQSkZJRgABAQEASABIAAD/4R4CRXhpZgAASUkqAAgAAAAJAA8BAgAGAAAAegAAABAB
           AgAUAAAAgAAAABoBBQABAAAAlAAAABsBBQABAAAAnAAAACgBAwABAAAAAgAAADEBAgArAAAA
           pAAAADIBAgAUAAAA0AAAADsBAgANAAAA5AAAAGmHBAABAAAA8gAAACIDAABDYW5vbgBDYW5v
@@ -3425,7 +3443,7 @@
    </table:table>
    <text:p text:style-name="P7"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/>Qui est arrivé le premier ?</text:h>
-   <text:p text:style-name="P29"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>/<text:span text:style-name="T12">3 – Calculer <text:tab/><text:tab/>/2</text:span></text:p>
+   <text:p text:style-name="P32"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>/<text:span text:style-name="T12">3 – Calculer <text:tab/><text:tab/>/2</text:span></text:p>
    <text:p text:style-name="P9">Marc, Antoine et Angèle font une course. Ils partent tous les trois du même endroit. Comme Antoine cours le moins vite, il part en premier à 15h42. Angèle part ensuite à 15h57 et Marc part 4 minutes après elle. Antoine met 43 minutes pour arriver, Angèle 29 minutes et Marc 31 minutes. Qui est arrivé en premier ? <text:span text:style-name="T12">Explique ta démarche.</text:span></text:p>
    <text:p text:style-name="P9">…………………………………………………………………………………………</text:p>
    <text:p text:style-name="P9">…………………………………………………………………………………………</text:p>
@@ -3435,21 +3453,6 @@
    <text:p text:style-name="P9">…………………………………………………………………………………………</text:p>
    <text:p text:style-name="P9">…………………………………………………………………………………………</text:p>
    <text:p text:style-name="P9">…………………………………………………………………………………………</text:p>
-   <text:p text:style-name="P9"/>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2">Exercice bonus <text:span text:style-name="T10">– Débat</text:span></text:h>
-   <text:p text:style-name="P29"><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>/<text:span text:style-name="T12">+3</text:span></text:p>
-   <text:p text:style-name="P11">Pour chacune des affirmations ci dessous, dis si elle est vraie ou fausse, puis justifie ta réponse</text:p>
-   <text:p text:style-name="P11">a. Lorsqu’on calcule une expression qui contient des multiplications, il faut commencer par les effectuer en premier</text:p>
-   <text:p text:style-name="P11">V – F – …………………………………………………………………………………</text:p>
-   <text:p text:style-name="P10">…………………………………………………………………………………………</text:p>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P11">b. Quand on multiplie un nombre par 6, le résultat est toujours supérieur ou égal à 6</text:p>
-   <text:p text:style-name="P11">V – F – …………………………………………………………………………………</text:p>
-   <text:p text:style-name="P10">…………………………………………………………………………………………</text:p>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P11">c. Pour multiplier un nombre par 42, on peut le multiplier par 6 puis par 7</text:p>
-   <text:p text:style-name="P11">V – F – …………………………………………………………………………………</text:p>
-   <text:p text:style-name="P10">…………………………………………………………………………………………</text:p>
   </office:text>
  </office:body>
 </office:document>
