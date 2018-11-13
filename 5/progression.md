@@ -16,7 +16,8 @@ Chapitre 3: Problèmes de construction d'un triangle
 * Savoir construire un triangle a partir:
 	* De ses 3 longueurs
 	* De 2 angles et une longueur
-* Savoir si un triangle est constructible 
+* Savoir si un triangle est constructible
+* Savoir donner les inégalités triangulaires à partir d'une figure
 
 Chapitre 4: Vers le calcul littéral
 ---
