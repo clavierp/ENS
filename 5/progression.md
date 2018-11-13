@@ -13,6 +13,10 @@ Chapitre 2: Solides, prisme droit et cylindre de révolution
 
 Chapitre 3: Problèmes de construction d'un triangle
 ---
+* Savoir construire un triangle a partir:
+	* De ses 3 longueurs
+	* De 2 angles et une longueur
+* Savoir si un triangle est constructible 
 
 Chapitre 4: Vers le calcul littéral
 ---
