@@ -1,145 +1,139 @@
-Progression 6ème - Année scolaire 2018/2019
+Progression 6ème - Année scolaire 2019/2020
 ===
 
-Chapitre 1: Les nombres entiers et décimaux et leurs écritures
----
-* Savoir écrire un nombre avec ses différentes écritures (en chiffres, sous forme de fraction, en lettres)
-* Savoir supprimer les zéros inutiles
-* Connaître la signification de la position d’un chiffre dans un nombre
+## Jusqu’à Toussaint : 
+### Chapitre 1 : Tableaux et graphiques 
 
-Chapitre 2: Les bases de la géométrie
----
-* Connaître, nommer les objets mathématiques notamment
-* Droites, demi-droites, etc.
-* Le cercle avec rayon et diamètre
-* Découvrir les notions d’alignement, d’appartenance
-* Comparer, reporter les longueurs (compas, règle) et les convertir
+- Lire, interpréter et construire un tableau (simple ou à double entrée)
+- Lire, interpréter et construire une représentation graphique (diagramme en bâtons, graphiques cartésiens)
+- Lire et interpréter diagramme circulaire/semi-circulaire (construction dans chapitre 10 : les angles)
+- Se repérer sur un plan ou sur une carte
 
-Chapitre 3: Nombres décimaux et comparaison de nombres
----
-* Connaître les nombres décimaux (fonctionnement du système de numération)
-* Savoir comparer et ranger deux nombres entiers et décimaux, encadrer un nombre
-* Connaître l’abscisse d’un point, placer un nombre sur une demi-droite graduée
-* Savoir déterminer et utiliser les valeurs approchées et ordre de grandeur
-* Calculer et convertir des durées 
+### Chapitre 2 : Les nombres décimaux 
 
-Chapitre 4: Droites parallèles et perpendiculaires
----
-* Tracer des droites parallèles et perpendiculaires avec les outils géométriques
-* Connaitre les propriétés reliant perpendiculaires et parallèles
-* Déterminer le plus court chemin entre deux points
-* Exécuter et rédiger un programme de tracé
+- Unités de numération jusqu’à 12 chiffres
+- Décomposer un nombre décimal : partie entière et partie décimale jusqu’au dix millième
+- Comprendre et utiliser les différentes écritures d’un nombre décimal (fractions décimales, écritures à virgule et décompositions)
 
-Chapitre 5: Addition et soustraction
----
-* Connaître et savoir utiliser le vocabulaire
-* Savoir calculer astucieusement et utiliser les parenthèses dans des cas simples
-* Savoir poser un calcul, calculer mentalement, utiliser la calculatrice
-* Additionner et soustraire des durées
-* Savoir estimer un ordre de grandeur
+### Chapitre 3 : Premiers éléments de géométrie et grandeurs usuelles. 
 
-Chapitre 6: Angles
----
-* Connaître et savoir utiliser le vocabulaire
-* Identifier et comparer les angles
-* Savoir utiliser le rapporteur (pour reproduire, mesurer et construire des angles)
+- Connaître et utiliser les notations : droite, demi-droite, segment
+- Définir la longueur d’un segment et préciser les unités de longueurs
+- Caractériser la notion de milieu, d’appartenance et d’alignement
+- Effectuer des changements d’unités de longueur (faire le lien entre les unités de numération et les unités de longueur (dixième/dm)
 
-Chapitre 7: Multiplication
----
-* Connaître et savoir utiliser le vocabulaire
-* Savoir calculer astucieusement et utiliser les parenthèses dans des cas simples
-* Poser un calcul, calculer mentalement, utiliser la calculatrice
-* Multiplier par les multiples de 10
-* Résoudre des problèmes impliquant des multiplications
+### Chapitre 4 : Comparaison de nombres décimaux 
+- Comparer deux nombres décimaux (illustrer les grands nombres à l’aide d’exemples d’ordres de grandeurs (population, rayon de la Terre…)
+- Ranger une liste de nombres décimaux
+- Encadrer un nombre décimal, intercaler un nombre entre deux autres
+- Repérer un nombre décimal sur une droite graduée
 
-Chapitre 8: Triangles
----
-* Connaitre les différents types de triangles ainsi que le vocabulaire de base
-* Savoir tracer des triangles particuliers
-* Rédiger un programme de construction, reproduire sur papier ou logiciel
-* Reproduire une figure en respectant une échelle, appliquer un agrandissement ou une réduction
+ tâche complexe, interrogation, devoirs, séance informatique 
+ 
+## Jusqu’à Noël : 
+### Chapitre 5 : Droites parallèles et perpendiculaires. 
+- Tracer une perpendiculaire à une droite donnée par un point donné
+- Tracer une parallèle à une droite donnée par un point donné
+- Justifier à l’aide d’une propriété
+- Déterminer le plus court chemin entre un point et une droite ou entre deux droites parallèles (en lien avec la perpendicularité).
 
-Chapitre 9: Division euclidienne et problèmes
----
-* Connaitre le vocabulaire
-* Effectuer des divisions euclidiennes et les contrôler (ordres de grandeur)
-* Connaître les critères de divisibilité et savoir les utiliser
-* Résoudre des problèmes mettant en jeu les 4 opérations
+### Chapitre 6: Addition, soustraction, multiplication de nombres décimaux. 
 
-Chapitre 10: Symétrie
----
-* Connaitre les propriétés de conservation de la symétrie axiale
-* Placer le symétrique d’un point
-* Construire le symétrique d’une figure
-* Connaitre les axes de symétrie des figues de base
-* Construire la médiatrice d’un segment
+- Additionner /soustraire avec des nombres entiers et décimaux
+- Multiplier avec des nombres entiers et décimaux
+- Calculer avec des durées (durée entre 2 instants, déterminer un instant à partir instant et durée)
+- Effectuer des changements d’unités à travers la résolution de problèmes
+- Vérifier la vraisemblance d’un résultat, notamment en estimant son ordre de grandeur
+- Multiplier par 10, 100 ou 1 000 un nombre décimal
+- Fonctions de base d’une calculatrice. Introduire et travailler la priorité de la multiplication sur l’addition et la soustraction ainsi que l’usage des parenthèses.
 
-Chapitre 11: Division décimale
----
-* Effectuer des divisions décimales.
-* Déterminer un arrondi- une troncature.
+### Chapitre 7: Cercles et polygones réguliers.
 
-Chapitre 12: Fractions (1)
----
-* Faire le lien entre fraction décimale et écriture décimale
-* Ecrire une fraction sous la forme de la somme d’un nombre entier et d’une fraction
-* Lire, comprendre, représenter une fraction d’une figure
-* Placer une fraction sur une demi-droite graduée
-* Encadrer une fraction par 2 entiers consécutifs
+- Connaitre et utiliser la définition et le vocabulaire du cercle
+- Reconnaitre et construire un triangle particulier
+- Définition d’un quadrilatère
+- Reconnaitre et construire un carré, un rectangle, un losange par ses côtés
+- Première approche du parallélogramme
 
-Chapitre 13: Quadrilatères
----
-* Connaitre et utiliser le vocabulaire relatif aux quadrilatères
-* Connaitre et savoir utiliser les propriétés relatives aux côtés et diagonales des quadrilatères 
-* Savoir tracer des quadrilatères particuliers
-* Rédiger un programme de construction, reproduire sur papier ou logiciel
+tâche complexe, interrogation, devoirs, séance informatique
 
-Chapitre 14: Fractions (2) et problèmes
----
-* Ecrire des fractions égales à une fraction donnée
-* Calculer la fraction d’un nombre
-* Résoudre des problèmes comportant des fractions. 
+## Jusqu’à Février : 
 
-Chapitre 15: Périmètres et aires
----
-* Différencier aires et périmètres
-* Estimer, mesurer (comptage) et comparer aire et périmètre
-* Connaitre et savoir appliquer les formules d’aire et de périmètres des figures de base
-* Calculer le périmètre et l’aire d’une figure complexe
-* Convertir des unités d’aires
-* Résoudre des problèmes
+### Chapitre 8 : La division 
 
-Chapitre 16: Proportionnalité, pourcentages et problèmes
----
-* Identifier une situation de proportionnalité
-* Connaitre et utiliser les propriétés de la proportionnalité
-* Appliquer un pourcentage
-* Résoudre des problèmes relevant de la proportionnalité
+- Effectuer une division euclidienne
+- Notion de multiples et diviseurs
+- Critères de divisibilité (2, 3, 4, 5, 9 et 10)
+- Division d’un nombre décimal par un entier
+- Diviser  par 10, 100 ou 1 000 un nombre décimal
 
-Chapitre 17: Solides
----
-* Connaitre le vocabulaire approprié pour nommer les solides
-* Reproduire, représenter, construire un solide simple
+### Chapitre 9 : Périmètre et aires 
 
-Chapitre 18: Gestion de données
----
-* Prélever et exploiter des données par lecture de tableaux, graphiques cartésiens, diagramme circulaire/bâton
-* Organiser des données et produire de tels diagrammes et graphiques
+- Calculer le périmètre de polygones et la longueur d’un cercle
+- Calculer l’aire d’un carré, d’un  rectangle, d’un triangle et d’un disque
+- Unités usuelles d’aire : multiples et sous-multiples du m² et leurs relations, are et hectare.
+- Maitriser les unités de longueur et d’aire
 
-Chapitre 19: Repérage
----
-* Se repérer, décrire ou exécuter des déplacements, sur un plan ou sur une carte
-* Programmer les déplacements d’un personnage sur un écran
+### Chapitre 10 : Les angles 
 
-Chapitre 20: Volumes
----
-* Comparer, estimer, mesurer des volumes
-* Relier unités de volume et de contenance
-* Convertir les unités de volume
-* Connaitre et savoir appliquer la formule de volume d’un pavé/cube
-* Résoudre des problèmes avec conversions et/ou grandeurs
+- Notion d’angle
+- Identifier des angles dans une figure géométrique.
+- Reconnaitre qu’un angle est droit, aigu ou obtus.
+- Définir la mesure en degré d’un angle
+- Reconnaitre et mesurer un angle avec rapporteur
+- Construire un angle de mesure donnée avec rapporteur
+- Construire un diagramme circulaire/semi-circulaire
+- Se repérer, décrire ou exécuter des déplacements sur un plan ou sur une carte (par exemple, SCRATCH)
 
-Chapitre 21: Grandeurs
----
-* Résoudre des problèmes dont la résolution mobilise plusieurs opérations et/ou plusieurs unités de mesures (angles, durées, aires, périmètres, volumes)
-* ?S’engager dans la résolution de problèmes à plusieurs étapes?
+tâche complexe, interrogation, devoirs, séance informatique 
+
+## Jusqu’à Pâques
+
+### Chapitre 11 : Nombres en écriture fractionnaire
+
+- Ecritures fractionnaires, exprimer un quotient
+- Repérer et placer des fractions sur une droite graduée adaptée
+- Ecrire une fraction  sous forme de somme d’un entier et d’une fraction inférieure à 1.
+- Encadrer une fraction par deux nombres entiers consécutifs
+- Etablir des égalités entre des fractions simples (simplification) (revoir critères de divisibilité)
+- Prendre une fraction d’une quantité (fractions vues comme opérateur)
+
+### Chapitre 12 : La symétrie axiale 
+
+- Reconnaitre des figures symétriques par rapport à une droite
+- Construire et utiliser la définition de la médiatrice
+- Tracer le symétrique d’un  point d’une droite et d’un  segment par rapport à une droite
+- Tracer le symétrique d’une figure par rapport à une droite
+- Propriétés de conservation de la symétrie axiale
+
+### Chapitre 13 : La proportionnalité (1ère partie)
+
+- Reconnaitre la proportionnalité, identifier une situation de proportionnalité entre deux grandeurs (grandeurs représentant des variations entre deux grandeurs)
+- Utiliser la proportionnalité
+- Reconnaitre et résoudre des problèmes relevant de la proportionnalité en utilisant une procédure adaptée (linéarité, passage à l’unité, coefficient de proportionnalité)
+
+tâche complexe, interrogation, devoirs, séance informatique 
+
+## Jusqu’à la fin
+
+### Chapitre 14 : Symétrie et figures usuelles. 
+
+- Déterminer les axes de symétrie d’une figure
+- Connaitre et utiliser la définition de la médiatrice
+- Etudier les axes de symétrie de certains polygones particuliers :
+    - triangle isocèle, triangle équilatéral (propriétés des angles)
+    - losange, rectangle, carré (propriétés des diagonales, des côtés et des angles)
+
+### Chapitre 15 : La proportionnalité (2ème partie)
+
+- Appliquer un taux de pourcentage
+- Reproduire une figure en respectant une échelle
+
+### Chapitre 16 : Parallélépipède rectangle et Volumes
+
+- Reconnaitre et construire le patron d’un solide
+- Interpréter une représentation en perspective d’un parallélépipède rectangle
+- Déterminer le volume d’un parallélépipède rectangle ou d’un cube
+- Unités usuelles de volume (cm3, dm3, m3), relations entre les unités. Relier les unités de volume et de contenance : 1l= 1dm3,
+
+tâche complexe, interrogation, devoirs, séance informatique 
