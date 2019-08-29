@@ -48,6 +48,8 @@
 	gap-widen
 }
 
+
+
 \author{Paul Clavier}
 \title{Chapitre 1 - Tableaux et graphiques}
 
@@ -59,7 +61,14 @@
 % ---
 
 % --- Selection manuelle de la version ---
-% \TeacherModeOn
+%\TeacherModeOn
+% ---
+
+% --- Selection automatique de la version ---
+\ifdefined\isprof
+	\TeacherModeOn
+\fi
+
 % ---
 
 
@@ -205,7 +214,7 @@ Voici ce qu’il a commencé à tracer sur son cahier:
 \end{enumerate}
 \end{minipage}
 \begin{minipage}{0.4\textwidth}
-\ifthenelse{}{\includegraphics[scale=1]{img/act-2.png}}{\includegraphics[scale=1]{img/act-2-corr.png}}
+\includegraphics[scale=1]{img/act-2.png}
 \end{minipage}
 
 \end{document}
