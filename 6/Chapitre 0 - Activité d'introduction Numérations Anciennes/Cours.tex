@@ -1,0 +1,161 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{lipsum}
+\usepackage{textcomp}
+
+\usepackage{makecell} % linebreak dans une cellule
+\usepackage{multicol} % twocols localement
+\usepackage{vwcol} % idem mais avec largeur variable
+\usepackage{color, colortbl} % colorer les tableaux
+\usepackage{enumitem} % utiliser des lettres pour énumérer
+\usepackage{wrapfig} % insérer des images dans dutexte
+\usepackage{dashundergaps} % transformer du texte en ________
+\usepackage{MnSymbol,wasysym} % smileys
+\usepackage[thinlines]{easytable} % tableaux à taille fixe
+
+% --- geometry ---
+\usepackage{geometry}
+\geometry{legalpaper, margin=2cm}
+% ---
+
+% --- xcolor ---
+\usepackage{xcolor}
+\definecolor{lightgray}{gray}{0.9}
+% ---
+
+% --- tcolorboxes ---
+\usepackage[most]{tcolorbox}
+\newtcolorbox{definition}[2][]{%
+  attach boxed title to top left
+               = {yshift=-8pt},
+  colback      = white,
+  colframe     = gray,
+  fonttitle    = \bfseries,
+  colbacktitle = gray,
+  title        = #2,#1,
+  enhanced,
+}
+% ---
+
+
+\renewcommand{\baselinestretch}{1.15} % augmenter l'interligne
+
+\dashundergapssetup{
+	teacher-gap-format=underline,
+	gap-widen
+}
+
+
+
+\author{Paul Clavier}
+\title{Chapitre 0 - Activité d'introduction Numérations Anciennes}
+
+\begin{document}
+
+% --- Section & subsection renum ---
+\renewcommand\thesection{\Roman{section}}
+\renewcommand\thesubsection{\arabic{subsection}}
+% ---
+
+% --- Selection manuelle de la version ---
+%\TeacherModeOn
+% ---
+
+% --- Selection automatique de la version ---
+\ifdefined\isprof
+	\TeacherModeOn
+\fi
+
+% ---
+
+
+% --- Définitions locales ---
+\newcommand{\clou}{\includegraphics[scale=0.5]{img/bab-cloud.png}}
+\newcommand{\chevron}{\includegraphics[scale=0.5]{img/bab-chevron.png}}
+
+% ---
+
+
+\begin{center}
+	\fbox{\huge Activité d'introduction Numérations Anciennes}
+\end{center}
+
+\section{La numération dans l'antiquité}
+\subsection{Les Babyloniens}
+
+\begin{minipage}{0.2\textwidth}
+\includegraphics[scale=0.8]{img/bab-pierre.png} 
+\end{minipage}
+\begin{minipage}{0.8\textwidth}
+
+Chez les Babyloniens (environ 2000 ans av.J.C.), les symboles utilisés sont le clou \includegraphics[scale=0.5]{img/bab-cloud.png} pour l’unité le chevron \includegraphics[scale=0.5]{img/bab-chevron.png} pour les dizaines. Le système est additif jusqu’à et 60. 
+Cette numération est dite de position, car le nombre dépend de la position des symboles utilisés.
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+\hline
+2 & 9 & 12 & 53 \\ \hline
+\clou\clou & \clou\clou\clou\clou\clou\clou\clou\clou\clou & \chevron\clou\clou & \chevron\chevron\clou\clou\clou
+\\ \hline
+\end{tabular}
+\end{center}
+A partir de 60, la position des symboles entre en jeu de la façon suivante : 
+\end{minipage}
+
+\begin{center}
+\begin{tabular}{|c|c|@{}m{0cm}@{}}
+\hline
+171 & \hspace{4cm}248\hspace{4cm} & \\ \hline
+$2\times 60 + 51$ & \gap*[b]{$4\times 60 + 8$} & \thead{\vspace{0.5cm}} \\ \hline
+\clou\clou\hspace{0.5cm}\chevron\chevron\chevron\chevron\chevron\clou & \gap*[b]{\clou\clou\clou\clou\hspace{0.5cm}\clou\clou\clou\clou\clou\clou\clou\clou} & \thead{\vspace{1cm}}\\\hline
+\end{tabular}
+\end{center}
+\textbf{Exercice}: Écrire 18, 44 et 555 en numération babylonienne
+\begin{center}
+\begin{tabular}{|c|c|c|@{}m{0cm}@{}}
+\hline
+18 & 44 & 555\\ \hline
+	\gap*[b]{\chevron\clou\clou\clou\clou\clou\clou\clou\clou} & 
+	\gap*[b]{\chevron\chevron\chevron\chevron\clou\clou\clou\clou} &
+	\gap*[b]{\clou\clou\clou\clou\clou\clou\clou\clou\clou \hspace{0.5cm} \chevron\clou\clou\clou\clou\clou } & \thead{\vspace{1cm}} \\ \hline
+\end{tabular}
+\end{center}
+
+\subsection{Les Égyptiens}
+Les scribes égyptiens (environ 1800 av. J.C.) représentaient 1 et les multiples de 10 par un croquis
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+1 & 10 & 100 & 1 000 & 10 000 & 100 000 & 1 000 000 \\\hline
+\includegraphics[scale=0.5]{img/egypt-1.png} & 
+\includegraphics[scale=0.5]{img/egypt-10.png}  & 
+\includegraphics[scale=0.5]{img/egypt-100.png}  & 
+\includegraphics[scale=0.5]{img/egypt-1k.png}  & 
+\includegraphics[scale=0.5]{img/egypt-10k.png}  & 
+\includegraphics[scale=0.5]{img/egypt-100k.png}  & 
+\includegraphics[scale=0.5]{img/egypt-1M.png} \\ \hline
+& & Corde enroulée & Fleur de lotus & Doigt coupé & Têtard & Dieu assis\\ \hline
+\end{tabular}
+\end{center}
+Pour lire un nombre, on additionne la valeur de l’ensemble des symboles utilisés dans son écriture :\\
+\includegraphics[scale=0.5]{img/egypt-345.png} Signifie 5 + 40 + 300 = 345\\
+\textbf{Exercice}: Écrire 1 342 422 en numération égyptienne.\\
+\gap*[b]{\includegraphics[scale=0.3]{img/egypt-1.png}\includegraphics[scale=0.3]{img/egypt-1.png}\includegraphics[scale=0.3]{img/egypt-10.png}\includegraphics[scale=0.3]{img/egypt-10.png}\includegraphics[scale=0.3]{img/egypt-100.png}\includegraphics[scale=0.3]{img/egypt-100.png}\includegraphics[scale=0.3]{img/egypt-100.png}\includegraphics[scale=0.3]{img/egypt-100.png}\includegraphics[scale=0.3]{img/egypt-1k.png}\includegraphics[scale=0.3]{img/egypt-1k.png}\includegraphics[scale=0.3]{img/egypt-10k.png}\includegraphics[scale=0.3]{img/egypt-10k.png}\includegraphics[scale=0.3]{img/egypt-10k.png}\includegraphics[scale=0.3]{img/egypt-10k.png}\includegraphics[scale=0.3]{img/egypt-100k.png}\includegraphics[scale=0.3]{img/egypt-100k.png}\includegraphics[scale=0.3]{img/egypt-100k.png}\includegraphics[scale=0.3]{img/egypt-1M.png}}
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
