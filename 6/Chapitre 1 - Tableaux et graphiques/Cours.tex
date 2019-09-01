@@ -125,12 +125,12 @@ Un tableau à double entrée est un tableau qui donne la répartition de donnée
 
 \textbf{Exemple:} Le tableau ci-dessous donne la répartition des médailles d’or selon le pays et l’année.\\
 
-\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\begin{tabular}{|c|c|c|c|c|c|c|c|@{}m{0cm}@{}}
 \hline
       & Russie & Norvège & Canada & Etats-Unis & Pays-Bas & Allemagne & TOTAL \\ \hline
-2010  & \gap*[b]{3}      & \gap*[b]{9}      & \gap*[b]{14}     & \gap*[b]{9}          & \gap*[b]{4}        & \gap*[b]{10}        & \gap*[b]{49}    \\ \hline
-2014  & \gap*[b]{13}     & \gap*[b]{11}      & \gap*[b]{10}     & \gap*[b]{9}          & \gap*[b]{8}        & \gap*[b]{8}         & \gap*[b]{59}    \\ \hline
-TOTAL & \gap*[b]{16}     & \gap*[b]{20}      & \gap*[b]{24}     & \gap*[b]{18}         & \gap*[b]{12}       & \gap*[b]{18}        & \gap*[b]{108}   \\ \hline
+2010  & \gap*[b]{3}      & \gap*[b]{9}      & \gap*[b]{14}     & \gap*[b]{9}          & \gap*[b]{4}        & \gap*[b]{10}        & \gap*[b]{49}  & \thead{\\ \\} \\ \hline
+2014  & \gap*[b]{13}     & \gap*[b]{11}      & \gap*[b]{10}     & \gap*[b]{9}          & \gap*[b]{8}        & \gap*[b]{8}         & \gap*[b]{59}  & \thead{\\ \\}  \\ \hline
+TOTAL & \gap*[b]{16}     & \gap*[b]{20}      & \gap*[b]{24}     & \gap*[b]{18}         & \gap*[b]{12}       & \gap*[b]{18}        & \gap*[b]{108} & \thead{\\ \\}  \\ \hline
 \end{tabular}\\
 
 On peut lire que la Russie a gagné \gap*{03} médailles d’or en 2010 et \gap*{13} médailles d’or en 2014 soit un total de \gap*{16} médailles d’or sur les deux compétitions.
@@ -214,7 +214,11 @@ Voici ce qu’il a commencé à tracer sur son cahier:
 \end{enumerate}
 \end{minipage}
 \begin{minipage}{0.4\textwidth}
+\ifdefined\isprof
+\includegraphics[scale=1]{img/act-2-corr.png}
+\else
 \includegraphics[scale=1]{img/act-2.png}
+\fi
 \end{minipage}
 
 \end{document}
