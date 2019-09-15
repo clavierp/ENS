@@ -15,6 +15,7 @@
 \usepackage{dashundergaps} % transformer du texte en ________
 \usepackage{MnSymbol,wasysym} % smileys
 \usepackage{minibox} % multiline fbox - \minibox[frame]{}
+\usepackage[pscoord]{eso-pic} % floating text box \placetextbox{x}{y}{text}
 \usepackage{ifthen}
 
 % --- geometry ---
@@ -49,6 +50,12 @@
 	gap-widen
 }
 
+\newcommand{\placetextbox}[3]{% \placetextbox{<horizontal pos>}{<vertical pos>}{<stuff>}
+  \setbox0=\hbox{#3}% Put <stuff> in a box
+  \AddToShipoutPictureFG*{% Add <stuff> to current page foreground
+    \put(\LenToUnit{#1\paperwidth},\LenToUnit{#2\paperheight}){\vtop{{\null}\makebox[0pt][c]{#3}}}%
+  }%
+}%
 
 
 \author{Paul Clavier}
@@ -75,6 +82,9 @@
 \begin{center}
 	\minibox[frame,c]{Chapitre 1 - Tableaux et graphiques \\ Interrogation Écrite - 1}
 \end{center}
+
+\placetextbox{0.1}{0.99}{Nom:}
+\placetextbox{0.1}{0.96}{Prénom:}
 
 \begin{center}
 \begin{tabular}{|l|c|}
