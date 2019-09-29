@@ -17,6 +17,7 @@
 \usepackage{minibox} % multiline fbox - \minibox[frame]{}
 \usepackage[pscoord]{eso-pic} % floating text box \placetextbox{x}{y}{text}
 \usepackage{ifthen}
+\usepackage{soul} % teste barré \st
 
 % --- geometry ---
 \usepackage{geometry}
@@ -41,6 +42,13 @@
   enhanced,
 }
 % ---
+
+% --- array ---
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+ % ---
 
 
 \renewcommand{\baselinestretch}{1.15} % augmenter l'interligne
@@ -97,63 +105,74 @@ Organisation et gestion de données \hspace{8cm} & Maitrise \\ \hline
 \end{tabular}
 \end{center}
 
-\textbf{Exercice 1}
-En utilisant le tableau regroupant quelques villes, leur altitude, la quantité de pluie tombée en un an et le nombre de jours de pluie en un an ci dessous, répond aux questions.\\
+\textbf{Exercice 1}: Complète le tableau\\
 
-\begin{minipage}{0.35\textwidth}
-\includegraphics[scale=0.28]{img/IE-tableau.png} 
+\begin{tabular}{|c|c|c|c|c|}
+\hline 
+Nombre & Partie entière & Partie décimale & Chiffre des dixièmes & Nombre de centièmes \\ 
+\hline 
+45,12 & \gap*[b]{45} & \gap*[b]{0,12} & \gap*[b]{1} & \gap*[b]{4 512} \\ 
+\hline 
+1,789 & \gap*[b]{1} & \gap*[b]{0,789} & \gap*[b]{7} & \gap*[b]{178} \\ 
+\hline 
+0,475 & \gap*[b]{0} & \gap*[b]{0,475} & \gap*[b]{4} & \gap*[b]{75} \\ 
+\hline 
+14,5 & \gap*[b]{14} & \gap*[b]{0,5} & \gap*[b]{5} & \gap*[b]{50} \\ 
+\hline 
+\end{tabular}\\
+
+\textbf{Exercice 2}: Écris chaque nombre sous forme de fraction décimale\\
+
+\begin{minipage}{0.5\textwidth}
+$14,8 = \frac{\text{\gap*[b]{148}}}{\text{\gap*[b]{10}}}$\\\\
+$74,21 = \frac{\text{\gap*[b]{7 421}}}{\text{\gap*[b]{100}}}$\\\\
 \end{minipage}
 \begin{minipage}{0.5\textwidth}
-\begin{enumerate}
-\item Quelle est la ville la plus haute?\\ \gap*{Saint-Étienne\hspace{4.3cm}} 
-\item Quelles sont les villes dont le nombre de jour de pluie est inférieur à 150?\\ \gap*{Paris, Lyon, Marseille, Toulouse, Saint-Étienne\hspace{4.5cm}}
-\item Quelle ville à connu le moins de jour de pluie?\\ \gap*{Marseille\hspace{5.3cm}}
-\end{enumerate}
-\end{minipage} \\
+$0,44 = \frac{\text{\gap*[b]{44}}}{\text{\gap*[b]{100}}}$\\\\
+$665,975 = \frac{\text{\gap*[b]{665 975}}}{\text{\gap*[b]{1000}}}$\\\\
+\end{minipage}
 
-\textbf{Exercice 2}
+\textbf{Exercice 3}: Supprime les zéros inutiles
 \begin{center}
-\includegraphics[scale=0.42]{img/IE-diagrammes.png} 
-\includegraphics[scale=0.42]{img/IE-cart.png}
+\ifdefined\isprof
+\st{0}1,1\st{0} - \st{000}475,707\st{0} - \st{0}0,975\st{00} - \st{0}801,108\st{0}
+\else
+01,10 - 000475,7070 - 00,97500 - 0801,1080
+\fi
 \end{center}
-\begin{enumerate}
-\item Quelle catégorie d'usagers de la route de 12 et 13 ans est le plus souvent victime d'accidents? \\ \gap*{Les usagers de 12 et 13 ans le plus souvent victime de la route sont \\ les piétons \hspace{11.7cm}}
-\item Que permet de voir rapidement le diagramme circulaire?\\ \gap*{Le diagramme circulaire permet de voir que les cyclomoteurs sont les\\ plus victimes d'accident à 14 ans\hspace{7.5cm}}
-\item Complète le tableau ci dessous
-%\end{enumerate}
-\begin{center}
-\begin{tabular}{|c|c|c|c|c|c|}
+
+\textbf{Exercice 4}: Convertis les longueurs suivantes\\
+
+\begin{minipage}{0.3\textwidth}
+14cm = \gap*{140}mm\\
+17m = \gap*{1 700}cm\\
+21km = \gap*{21 000 000}mm
+\end{minipage}
+\begin{minipage}{0.3\textwidth}
+5 100mm = \gap*{5,1}m\\
+32cm = \gap*{0,32}m\\
+192mm = \gap*{0,000 192}mm
+\end{minipage}
+\begin{minipage}{0.3\textwidth}
+0,19dam = \gap*{0,019}hm\\
+17 640dm = \gap*{1,764}km\\
+0,000 191km = \gap*{1,91}dm
+\end{minipage}\\
+
+\textbf{Exercice Bonus}: Place la virgule pour que 8 soit le chiffre des millièmes dans\\
+
+\begin{tabular}{|C{4cm}|C{4cm}|C{4cm}|C{4cm}|}
 \hline 
-\thead{Nombre de \\ Victimes} & Piétons & Vélos & Cyclomoteurs & Motos & Voitures \\ 
+1 4 7 9 8 & 7 4 5 3 1 9 8 2 3 1 & 1 0 8 1 0 3 & 1 4 5 3 2 1 7 4 5 3 8 \\ 
 \hline 
-12 ans & \gap*[b]{285} & \gap*[b]{96} & \gap*[b]{7} & \gap*[b]{1} & \gap*[b]{1} \\ 
+\end{tabular}\\
+
+\textbf{Exercice Bonus 2}: Place la virgule pour que 8 soit le chiffre des dizaines de milliers dans\\
+
+\begin{tabular}{|C{4cm}|C{4cm}|C{4cm}|C{4cm}|}
 \hline 
-13 ans & \gap*[b]{247} & \gap*[b]{86} & \gap*[b]{30} & \gap*[b]{3} & \gap*[b]{0} \\ 
+1 2 3 4 5 7 8 9 & 4 1 2 3 & 7 1 3 2 1 4 & 7 4 1 2 3 6 4 8 9 \\ 
 \hline 
-14 ans & \gap*[b]{214} & \gap*[b]{103} & \gap*[b]{346} & \gap*[b]{12} & \gap*[b]{4} \\ 
-\hline 
-15 ans & \gap*[b]{245} & \gap*[b]{101} & \gap*[b]{676} & \gap*[b]{32} & \gap*[b]{3} \\ 
-\hline 
-\end{tabular} 
-\end{center}
-%\begin{enumerate}
-\item Quelle case ne peut pas être remplie? \gap*{Les cyclomoteurs de 15 ans victimes d'accidents}
-\item Sachant que le nombre total de victimes de 15 ans est de 1057, calcule le nombre manquant et complète le tableau.
-\end{enumerate}
+\end{tabular}
 
 \end{document}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
