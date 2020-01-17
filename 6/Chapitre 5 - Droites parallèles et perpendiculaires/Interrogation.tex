@@ -1,0 +1,145 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{lipsum}
+\usepackage{textcomp}
+
+\usepackage{makecell} % linebreak dans une cellule
+\usepackage{multicol} % twocols localement
+\usepackage{vwcol} % idem mais avec largeur variable
+\usepackage{color, colortbl} % colorer les tableaux
+\usepackage{enumitem} % utiliser des lettres pour énumérer
+\usepackage{wrapfig} % insérer des images dans dutexte
+\usepackage{dashundergaps} % transformer du texte en ________
+\usepackage{MnSymbol,wasysym} % smileys
+\usepackage{minibox} % multiline fbox - \minibox[frame]{}
+\usepackage[pscoord]{eso-pic} % floating text box \placetextbox{x}{y}{text}
+\usepackage{ifthen}
+\usepackage{soul} % teste barré \st
+
+% --- geometry ---
+\usepackage{geometry}
+\geometry{legalpaper, margin=1cm}
+% ---
+
+% --- xcolor ---
+\usepackage{xcolor}
+\definecolor{lightgray}{gray}{0.9}
+% ---
+
+% --- tcolorboxes ---
+\usepackage[most]{tcolorbox}
+\newtcolorbox{definition}[2][]{%
+  attach boxed title to top left
+               = {yshift=-8pt},
+  colback      = white,
+  colframe     = gray,
+  fonttitle    = \bfseries,
+  colbacktitle = gray,
+  title        = #2,#1,
+  enhanced,
+}
+% ---
+
+% --- array ---
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+ % ---
+
+
+\renewcommand{\baselinestretch}{1.15} % augmenter l'interligne
+
+\dashundergapssetup{
+	teacher-gap-format=underline,
+	gap-widen
+}
+
+\newcommand{\placetextbox}[3]{% \placetextbox{<horizontal pos>}{<vertical pos>}{<stuff>}
+  \setbox0=\hbox{#3}% Put <stuff> in a box
+  \AddToShipoutPictureFG*{% Add <stuff> to current page foreground
+    \put(\LenToUnit{#1\paperwidth},\LenToUnit{#2\paperheight}){\vtop{{\null}\makebox[0pt][c]{#3}}}%
+  }%
+}%
+
+
+\author{Paul Clavier}
+\title{Chapitre 5 - Droites parallèles et perpendiculaires - Interrogation} 
+
+\begin{document}
+
+% --- Section & subsection renum ---
+\renewcommand\thesection{\Roman{section}}
+\renewcommand\thesubsection{\arabic{subsection}}
+% ---
+
+% --- Selection manuelle de la version ---
+%\def\isprof{true}
+% ---
+
+% --- Selection automatique de la version ---
+\ifdefined\isprof
+	\TeacherModeOn
+\fi
+
+% ---
+
+\begin{center}
+	\minibox[frame,c]{Chapitre 5 - Droites parallèles et perpendiculaires \\ Interrogation Écrite}
+\end{center}
+
+\placetextbox{0.1}{0.99}{Nom:}
+\placetextbox{0.1}{0.96}{Prénom:}
+
+\begin{center}
+\begin{tabular}{|l|c|}
+\hline \rowcolor{lightgray}
+Droites parallèles et perpendiculaires \hspace{8cm} & Maitrise \\ \hline
+\thead[l]{D1.3:2.1: Utiliser des notions de géométrie plane} &
+\\ \hline
+\thead[l]{D2:1.5: Présenter son travail de façon soignée} &
+ \\ \hline
+\end{tabular}
+\end{center}
+
+\textbf{Exercice 1}\\
+
+\begin{minipage}{0.45\textwidth}
+\begin{center}
+Construit la droite (d') perpendiculaire à (d) passant par M.\\
+\ifdefined\isprof
+ 	\includegraphics[scale=1]{img/eval-perp-corr.png}
+ \else
+  	\includegraphics[scale=1]{img/eval-perp.png}
+ \fi 
+\end{center}
+\end{minipage}
+\hfill\vline\hfill
+\begin{minipage}{0.45\textwidth}
+\begin{center}
+Construit la droite (d') parallèle à (d) passant par P.\\
+\ifdefined\isprof
+	\includegraphics[scale=1]{img/eval-para-corr.png} 
+\else
+	\includegraphics[scale=1]{img/eval-para.png} 
+\fi
+\end{center}
+\end{minipage}
+\textbf{Exercice 2}
+\begin{enumerate}
+\item Trace $(d)$ et $(d')$ séantes en $I$. $(d)$ et $(d')$ ne doivent pas être perpendiculaires.
+\item Place le point $A\in (d)$ tel quel $AI = 3cm$
+\item Place le point $B\in (d')$ tel que $BI = 4cm$
+\item Trace $(f)\perp (d')$ passant par $A$
+\item Trace $(h)\parallel (d)$ passant par $B$
+\item Place $J$, le point d'intersection de $(f)$ et $(h)$
+\item Trace $[IJ)$
+\end{enumerate}
+\ifdefined\isprof
+	\includegraphics[scale=1]{img/eval-2-corr.png} 
+\fi
+
+\end{document}
